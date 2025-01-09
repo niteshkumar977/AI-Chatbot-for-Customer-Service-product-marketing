@@ -1,0 +1,596 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "How may I help you today?",
+        "Good morning",
+        "Good evening"
+      ],
+      "responses": [
+        "Hello! How can I assist you today?"
+      ]
+    },
+    {
+      "tag": "product_details",
+      "patterns": [
+        "Tell me about your products",
+        "Product details",
+        "What products do you have?"
+      ],
+      "responses": [
+        "Here are the details about our products..."
+      ]
+    },
+    {
+      "tag": "price_details",
+      "patterns": [
+        "Tell me about the prices of products",
+        "Price details",
+        "products in what price range do you have?"
+      ],
+      "responses": [
+        "Here are the details about our prices..."
+      ]
+    },
+    {
+      "tag": "offer",
+      "patterns": [
+        "Current offers",
+        "Tell me about offers",
+        "Any offers available?"
+      ],
+      "responses": [
+        "Here are the current offers..."
+      ]
+    },
+    {
+      "tag": "discount",
+      "patterns": [
+        "Available discounts",
+        "Tell me about discounts",
+        "Any discounts available?"
+      ],
+      "responses": [
+        "Here are the available discounts..."
+      ]
+    },
+    {
+      "tag": "new_launches",
+      "patterns": [
+        "New launches",
+        "Tell me about new launches",
+        "What are the new products?"
+      ],
+      "responses": [
+        "Here are the new launches..."
+      ]
+    },
+    {
+      "tag": "order_status",
+      "patterns": [
+        "Order status",
+        "Check my order status",
+        "What is the status of my order?"
+      ],
+      "responses": []
+    },
+    {
+      "tag": "expected_delivery_time",
+      "patterns": [
+        "Expected delivery time",
+        "When will my order arrive?",
+        "Delivery time"
+      ],
+      "responses": []
+    },
+    {
+      "tag": "expected_date_of_delivery",
+      "patterns": [
+        "Expected date of delivery",
+        "Delivery date",
+        "When is my order delivery?"
+      ],
+      "responses": []
+    },
+    {
+      "tag": "expected_date_of_refund",
+      "patterns": [
+        "Expected date of refund",
+        "When will I get my refund?",
+        "Refund date"
+      ],
+      "responses": []
+    },
+    {
+      "tag": "expected_date_of_return",
+      "patterns": [
+        "Expected date of return",
+        "When will my return be processed?",
+        "Return date"
+      ],
+      "responses": []
+    },
+    {
+      "tag": "expected_date_of_replacement",
+      "patterns": [
+        "Expected date of replacement",
+        "When will my replacement arrive?",
+        "Replacement date",
+	"want to replace products",
+        "want to replace items"
+      ],
+      "responses": []
+    },
+    {
+      "tag": "order_cancellation",
+      "patterns": [
+        "Cancel my order",
+        "Order cancellation",
+        "I want to cancel my order"
+      ],
+      "responses": []
+    },
+    {
+      "tag": "order_rescheduling",
+      "patterns": [
+        "Reschedule my order",
+        "Order rescheduling",
+        "I want to reschedule my order"
+      ],
+      "responses": []
+    },
+    {
+      "tag": "other_request",
+      "patterns": [
+        "Any other request",
+        "I have a request",
+        "Can you help with my request?"
+      ],
+      "responses": []
+    },
+    {
+      "tag": "complaint_existing",
+      "patterns": [
+        "I have a complaint",
+        "This product is defective",
+        "I'm unhappy with my order"
+      ],
+      "responses": [
+        "I apologize for the inconvenience."
+      ]
+    },
+    {
+      "tag": "casual_shoes_details",
+      "patterns": [
+        "Tell me about these casual shoes", "What material are these shoes made of?", "Describe these casual shoes","casual shoes"
+      ],
+      "responses": [
+        "These casual shoes are made of high-quality {Details}."
+      ]
+    },
+    {
+      "tag": "casual_shoes_price",
+      "patterns": [
+        "How much are these casual shoes?","What is the price of these shoes?","Cost of these casual shoes",
+         "What is casual shoes price","What is casual shoes cost" 
+      ],
+      "responses": [
+        "The price of these casual shoes is {Price}."
+      ]
+    },
+    {
+      "tag": "casual_shoes_offer",
+      "patterns": [
+        "Any offers on casual shoes?","What discounts are available on these shoes?","Is there a sale on casual shoes?",
+        "What is casual shoes offer","What is casual shoes discount" 
+      ],
+      "responses": [
+        "The offer available on these casual shoes is: {Offer}."
+      ]
+    },
+    {
+      "tag": "tshirts_details",
+      "patterns": [
+        "Tell me about this Tshirt", "What material is this Tshirt made of?", "Describe this Tshirt","t-shirt","tshirt"
+      ],
+      "responses": [
+        "This Tshirt is made of {Details}."
+      ]
+    },
+    {
+      "tag": "tshirts_price",
+      "patterns": [
+        "How much is this Tshirt?", "What is the price of this Tshirt?", "Cost of this Tshirt",
+        "How much is this T-shirt?", "What is the price of this T-shirt?", "Cost of this T-shirt",
+        "What is tshirt price","What is tshirt cost", "What is t-shirt price","what is t-shirt cost"
+      ],
+      "responses": [
+        "The price of this Tshirt is {Price}."
+      ]
+    },
+    {
+      "tag": "tshirts_offer",
+      "patterns": [
+        "Any offers on Tshirts?", "What discounts are available on this Tshirt?", "Is there a sale on Tshirts?",
+        "Any offers on T-shirts?", "What discounts are available on this T-shirt?", "Is there a sale on T-shirts?",
+        "What is tshirt offer","What is tshirt discount","What is t=shirt offer","What is t-shirt discount"
+      ],
+      "responses": [
+        "The offer available on this Tshirt is: {Offer}."
+      ]
+    },
+    {
+      "tag": "jackets_details",
+      "patterns": [
+        "Tell me about this jacket", "What material is this jacket made of?", "Describe this jacket",
+        "jacket"
+      ],
+      "responses": [
+        "This jacket is made of {Details}."
+      ]
+    },
+    {
+      "tag": "jackets_price",
+      "patterns": [
+        "How much is this jacket?", "What is the price of this jacket?", "Cost of this jacket",
+        "What is jackets price","What is jackets cost"
+      ],
+      "responses": [
+        "The price of this jacket is {Price}."
+      ]
+    },
+    {
+      "tag": "jackets_offer",
+      "patterns": [
+        "Any offers on jackets?", "What discounts are available on this jacket?", "Is there a sale on jackets?",
+        "What is jackets offer","What is jackets discount"
+      ],
+      "responses": [
+        "The offer available on this jacket is: {Offer}."
+      ]
+    },
+    {
+      "tag": "boxers_details",
+      "patterns": [
+        "Tell me about these boxers", "What material are these boxers made of?", "Describe these boxers","boxers"
+      ],
+      "responses": [
+        "These boxers are made of {Details}."
+      ]
+    },
+    {
+      "tag": "boxers_price",
+      "patterns": [
+        "How much are these boxers?", "What is the price of these boxers?", "Cost of these boxers",
+        "What is boxers price","What is boxers cost"
+      ],
+      "responses": [
+        "The price of these boxers is {Price}."
+      ]
+    },
+    {
+      "tag": "boxers_offer",
+      "patterns": [
+        "Any offers on boxers?", "What discounts are available on these boxers?", "Is there a sale on boxers?",
+	"What is boxers offer","What is the boxers discount"
+      ],
+      "responses": [
+        "The offer available on these boxers is: {Offer}."
+      ]
+    },
+    {
+      "tag": "sunglasses_details",
+      "patterns": [
+        "Tell me about these sunglasses", "What material are these sunglasses made of?", "Describe these sunglasses","sunglasses",
+        "shades","Tell me about these shades", "What material are these shades made of?", "Describe these shades"
+      ],
+      "responses": [
+        "These sunglasses are made of {Details}."
+      ]
+    },
+    {
+      "tag": "sunglasses_price",
+      "patterns": [
+        "How much are these sunglasses?", "What is the price of these sunglasses?", "Cost of these sunglasses",
+        "How much are these shades?", "What is the price of these shades?", "Cost of these shades",
+        "What is the sunglasses price","What is the sunglasses cost","What is the shades price","What is the shades cost"
+      ],
+      "responses": [
+        "The price of these sunglasses is {Price}."
+      ]
+    },
+    {
+      "tag": "sunglasses_offer",
+      "patterns": [
+        "Any offers on sunglasses?", "What discounts are available on these sunglasses?", "Is there a sale on sunglasses?",
+        "Any offers on shades?", "What discounts are available on these shades?", "Is there a sale on shades?",
+        "What is sunglasses offer","What is sunglasses discount","What is shades offer","What is shades discount"
+      ],
+      "responses": [
+        "The offer available on these sunglasses is: {Offer}."
+      ]
+    },
+    {
+      "tag": "shirts_details",
+      "patterns": [
+        "Tell me about this shirt", "What material is this shirt made of?", "Describe this shirt","shirt"
+      ],
+      "responses": [
+        "This shirt is made of {Details}."
+      ]
+    },
+    {
+      "tag": "shirts_price",
+      "patterns": [
+        "How much is this shirt?", "What is the price of this shirt?", "Cost of this shirt",
+        "What is shirts price","What is shirts cost"
+      ],
+      "responses": [
+        "The price of this shirt is {Price}."
+      ]
+    },
+    {
+      "tag": "shirts_offer",
+      "patterns": [
+        "Any offers on shirts?", "What discounts are available on this shirt?", "Is there a sale on shirts?",
+        "What is shirts offer","What is shirts discount"
+      ],
+      "responses": [
+        "The offer available on this shirt is: {Offer}."
+      ]
+    },
+    {
+      "tag": "belts_details",
+      "patterns": [
+        "Tell me about this belt", "What material is this belt made of?", "Describe this belt","belts"
+      ],
+      "responses": [
+        "This belt is made of {Details}."
+      ]
+    },
+    {
+      "tag": "belts_price",
+      "patterns": [
+        "How much is this belt?", "What is the price of this belt?", "Cost of this belt",
+        "What is the belt price","What is the belt cost"
+      ],
+      "responses": [
+        "The price of this belt is {Price}."
+      ]
+    },
+    {
+      "tag": "belts_offer",
+      "patterns": [
+        "Any offers on belts?", "What discounts are available on this belt?", "Is there a sale on belts?",
+        "What is belts offer","What is belts discount"
+      ],
+      "responses": [
+        "The offer available on this belt is: {Offer}."
+      ]
+    },
+    {
+      "tag": "shorts_details",
+      "patterns": [
+        "Tell me about these shorts", "What material are these shorts made of?", "Describe these shorts","shorts"
+      ],
+      "responses": [
+        "These shorts are made of {Details}."
+      ]
+    },
+    {
+      "tag": "shorts_price",
+      "patterns": [
+        "How much are these shorts?", "What is the price of these shorts?", "Cost of these shorts",
+        "What is shorts price","What is shorts cost"
+      ],
+      "responses": [
+        "The price of these shorts is {Price}."
+      ]
+    },
+    {
+      "tag": "shorts_offer",
+      "patterns": [
+        "Any offers on shorts?", "What discounts are available on these shorts?", "Is there a sale on shorts?",
+        "What is shorts offer","What is shorts discount"
+      ],
+      "responses": [
+        "The offer available on these shorts is: {Offer}."
+      ]
+    },
+    {
+      "tag": "watches_details",
+      "patterns": [
+        "Tell me about this watch", "What material is this watch made of?", "Describe this watch","watch"
+      ],
+      "responses": [
+        "This watch is made of {Details}."
+      ]
+    },
+    {
+      "tag": "watches_price",
+      "patterns": [
+        "How much is this watch?", "What is the price of this watch?", "Cost of this watch",
+        "What is watch price","What is watch cost"
+      ],
+      "responses": [
+        "The price of this watch is {Price}."
+      ]
+    },
+    {
+      "tag": "watches_offer",
+      "patterns": [
+        "Any offers on watches?", "What discounts are available on this watch?", "Is there a sale on watches?",
+        "What is watches offer","What is watches discount"
+      ],
+      "responses": [
+        "The offer available on this watch is: {Offer}."
+      ]
+    },
+    {
+      "tag": "jeans_details",
+      "patterns": [
+        "Tell me about these jeans", "What material are these jeans made of?", "Describe these jeans","jeans"
+      ],
+      "responses": [
+        "These jeans are made of {Details}."
+      ]
+    },
+    {
+      "tag": "jeans_price",
+      "patterns": [
+        "How much are these jeans?", "What is the price of these jeans?", "Cost of these jeans",
+        "What is jeans price", "What is jeans cost"
+      ],
+      "responses": [
+        "The price of these jeans is {Price}."
+      ]
+    },
+    {
+      "tag": "jeans_offer",
+      "patterns": [
+        "Any offers on jeans?", "What discounts are available on these jeans?", "Is there a sale on jeans?",
+        "What is jeans offer","What is jeans discount"
+      ],
+      "responses": [
+        "The offer available on these jeans is: {Offer}."
+      ]
+    },
+    {
+      "tag": "ethnic_wear_details",
+      "patterns": [
+        "Tell me about this ethnic wear", "What material is this ethnic wear made of?", "Describe this ethnic wear","ethnic",
+        "ethnic wear"
+      ],
+      "responses": [
+        "This ethnic wear is made of {Details}."
+      ]
+    },
+    {
+      "tag": "ethnic_wear_price",
+      "patterns": [
+        "How much is this ethnic wear?", "What is the price of this ethnic wear?", "Cost of this ethnic wear",
+        "What is ethnic wear price", "What is ethnic wear cost"
+      ],
+      "responses": [
+        "The price of this ethnic wear is {Price}."
+      ]
+    },
+    {
+      "tag": "ethnic_wear_offer",
+      "patterns": [
+        "Any offers on ethnic wear?", "What discounts are available on this ethnic wear?", "Is there a sale on ethnic wear?",
+        "What is ethnic wear offer","What is ethnic wear discount"
+      ],
+      "responses": [
+        "The offer available on this ethnic wear is: {Offer}."
+      ]
+    },
+    {
+      "tag": "sandals_details",
+      "patterns": [
+        "Tell me about these sandals","What material are these sandals made of?","Describe these sandals","sandals"
+      ],
+      "responses": [
+        "These sandals are made of {Details}."
+      ]
+    },
+    {
+      "tag": "sandals_price",
+      "patterns": [
+        "How much are these sandals?","What is the price of these sandals?","Cost of these sandals",
+        "What is sandals price","What is sandals cost"
+      ],
+      "responses": [
+        "The price of this sandals is {Price}."
+      ]
+    },
+    {
+      "tag": "sandals_offer",
+      "patterns": [
+        "Any offers on sandals?","What discounts are available on sandals?","Is there a sale on sandals?",
+	"What is sandals offer","What is sandals discount"
+      ],
+      "responses": [
+        "The offer available on this sandals is: {Offer}."
+      ]
+    },
+    {
+      "tag": "formal_shoes_details",
+      "patterns": [
+        "Tell me about these formal shoes","What material are these formal shoes made of?","Describe these formal shoes","formal shoes",
+        "shoes"
+      ],
+      "responses": [
+        "These sandals are made of {Details}."
+      ]
+    },
+    {
+      "tag": "formal_shoes_price",
+      "patterns": [
+        "How much are these formal shoes?","What is the price of these formal shoes?","Cost of these formal shoes",
+	"What is shoe price","What are shoe prices","What is shoes cost","What is shoe cost"
+      ],
+      "responses": [
+        "The price of this formal shoes is {Price}."
+      ]
+    },
+    {
+      "tag": "formal_shoes_offer",
+      "patterns": [
+        "Any offers on formal shoes?","What discounts are available on formal shoes?","Is there a sale on formal shoes?",
+	"What is shoes offer","What is shoes discount"
+      ],
+      "responses": [
+        "The offer available on this sandals is: {Offer}."
+      ]
+    },
+    {
+      "tag": "sweaters_details",
+      "patterns": [
+        "Tell me about these sweaters","What material are these sweaters made of?","Describe these sweaters","sweaters"
+      ],
+      "responses": [
+        "These sweaters are made of {Details}."
+      ]
+    },
+    {
+      "tag": "sweaters_price",
+      "patterns": [
+        "How much are these sweaters?","What is the price of these sweaters?","Cost of these sweaters","What is sweaters price",
+        "What is sweaters cost"
+      ],
+      "responses": [
+        "The price of this sweaters is {Price}."
+      ]
+    },
+    {
+      "tag": "sweaters_offer",
+      "patterns": [
+        "Any offers on sweaters?","What discounts are available on sweaters?","Is there a sale on sweaters?",
+	"What is sweaters offer","What is sweaters discount"
+      ],
+      "responses": [
+        "The offer available on this sweaters is: {Offer}."
+      ]
+    },
+    {
+      "tag": "price_range",
+      "patterns": [
+        "Price is greater than 50","Price is more than 50","Price is grt 50","Price is >50","Price is >than 50","Price is gt 50",
+        "Price is less than 50","Price is lesser than 50","Price is lt 50","Price is <50","Price is <than 50","Price is lt 50",
+        "Price is greater than 50 less than 100","Price is grt than 50 and lt than 100","Price is gt 50 and lt 100",
+        "Price is >50 and <100","price between 50 and 100","price btw 50 and 100", 
+        "Price is gt 50 & lt 100","Price is >50 & <100","price between 50 & 100","price btw 50 & 100"
+      ],
+      "responses": [
+        "Products in the given price range are..."
+      ]
+    }
+
+  ]
+}
+

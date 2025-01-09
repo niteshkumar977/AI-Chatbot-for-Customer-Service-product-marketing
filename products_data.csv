@@ -1,0 +1,1001 @@
+product_id,product_name,category,category_broad,details,price,offer,status
+P1000,Casual Shoes 1,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,2293,Flat 50% Off,offer/sale/discount
+P1001,T-Shirts 2,Tshirts,clothing,Durable polyester blend for active lifestyles,3485,No discount,fresh_arrivals
+P1002,Jackets 3,Jackets,clothing,Genuine leather jacket with a rugged look,3420,No discount,Limited Edition
+P1003,Boxers 4,Boxers,clothing,Blended material boxers with a snug fit,2404,No discount,fresh_arrivals
+P1004,T-Shirts 5,Tshirts,clothing,Casual and comfortable blended material,1572,No discount,fresh_arrivals
+P1005,Sunglasses 6,Sunglasses,accessories,Polarized sunglasses for clear vision,4264,No discount,fresh_arrivals
+P1006,Shirts 7,Shirts,clothing,Made with premium linen for a luxurious feel,3831,No discount,fresh_arrivals
+P1007,Belts 8,Belts,accessories,Elegant leather belt for formal wear,4732,20% Off,offer/sale/discount
+P1008,T-Shirts 9,Tshirts,clothing,Durable polyester blend for active lifestyles,965,No discount,Limited Edition
+P1009,Casual Shoes 10,Casual Shoes,footwear,Comfortable leather loafers for everyday use,1937,Clearance Sale,offer/sale/discount
+P1010,Shorts 11,Shorts,clothing,Lightweight cotton shorts for hot days,1046,No discount,fresh_arrivals
+P1011,Watches 12,Watches,accessories,Classic analog watch with a leather strap,2315,No discount,fresh_arrivals
+P1012,Jeans 13,Jeans,clothing,Classic denim with a modern twist,3289,No discount,fresh_arrivals
+P1013,Jackets 14,Jackets,clothing,Genuine leather jacket with a rugged look,842,Clearance Sale,offer/sale/discount
+P1014,Watches 15,Watches,accessories,Modern digital watch with various features,4571,No discount,fresh_arrivals
+P1015,Casual Shoes 16,Casual Shoes,footwear,Comfortable leather loafers for everyday use,2016,No discount,fresh_arrivals
+P1016,Ethnic Wear 17,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,4718,No discount,fresh_arrivals
+P1017,Shirts 18,Shirts,clothing,Elegant silk design perfect for formal occasions,733,No discount,fresh_arrivals
+P1018,Shorts 19,Shorts,clothing,Quick-drying polyester shorts for active wear,1233,No discount,Limited Edition
+P1019,Hoodies 20,Hoodies,clothing,Cozy fleece interior for extra warmth,692,No discount,fresh_arrivals
+P1020,Jackets 21,Jackets,clothing,Trendy denim jacket for casual outings,4144,No discount,Limited Edition
+P1021,Watches 22,Watches,accessories,Classic analog watch with a leather strap,3989,Flat 50% Off,offer/sale/discount
+P1022,Jackets 23,Jackets,clothing,Genuine leather jacket with a rugged look,2525,No discount,fresh_arrivals
+P1023,Hoodies 24,Hoodies,clothing,Stylish cotton hoodie with a relaxed fit,1746,No discount,fresh_arrivals
+P1024,Shorts 25,Shorts,clothing,Lightweight cotton shorts for hot days,3622,Clearance Sale,offer/sale/discount
+P1025,Sandals 26,Sandals,footwear,Stylish leather sandals for summer,1379,20% Off,offer/sale/discount
+P1026,Belts 27,Belts,accessories,Elegant leather belt for formal wear,3182,No discount,fresh_arrivals
+P1027,Watches 28,Watches,accessories,Modern digital watch with various features,4912,No discount,fresh_arrivals
+P1028,Shirts 29,Shirts,clothing,Made with premium linen for a luxurious feel,2002,No discount,fresh_arrivals
+P1029,Watches 30,Watches,accessories,Modern digital watch with various features,1310,No discount,fresh_arrivals
+P1030,Watches 31,Watches,accessories,Modern digital watch with various features,1175,No discount,Limited Edition
+P1031,Formal Shoes 32,Formal Shoes,footwear,Polished leather shoes for formal events,1335,No discount,fresh_arrivals
+P1032,Jeans 33,Jeans,clothing,Stretch denim for added comfort and flexibility,2001,Buy 1 Get 1,offer/sale/discount
+P1033,Formal Shoes 34,Formal Shoes,footwear,Durable synthetic material with a sleek finish,4781,No discount,fresh_arrivals
+P1034,Boxers 35,Boxers,clothing,Soft cotton boxers for all-day comfort,2845,No discount,fresh_arrivals
+P1035,Sweaters 36,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,3402,No discount,fresh_arrivals
+P1036,Sandals 37,Sandals,footwear,Stylish leather sandals for summer,1732,No discount,Limited Edition
+P1037,Sunglasses 38,Sunglasses,accessories,Polarized sunglasses for clear vision,1654,No discount,fresh_arrivals
+P1038,Hoodies 39,Hoodies,clothing,Stylish cotton hoodie with a relaxed fit,2859,No discount,Limited Edition
+P1039,Jackets 40,Jackets,clothing,Genuine leather jacket with a rugged look,1628,No discount,fresh_arrivals
+P1040,Shirts 41,Shirts,clothing,Crafted from soft cotton for ultimate comfort,4951,No discount,fresh_arrivals
+P1041,Sunglasses 42,Sunglasses,accessories,UV protection sunglasses for sunny days,3524,No discount,fresh_arrivals
+P1042,Sunglasses 43,Sunglasses,accessories,Polarized sunglasses for clear vision,2032,No discount,fresh_arrivals
+P1043,T-Shirts 44,Tshirts,clothing,Casual and comfortable blended material,2030,No discount,fresh_arrivals
+P1044,Shirts 45,Shirts,clothing,Elegant silk design perfect for formal occasions,785,No discount,fresh_arrivals
+P1045,Shirts 46,Shirts,clothing,Crafted from soft cotton for ultimate comfort,1699,No discount,fresh_arrivals
+P1046,Jeans 47,Jeans,clothing,Stretch denim for added comfort and flexibility,2809,No discount,fresh_arrivals
+P1047,Boxers 48,Boxers,clothing,Soft cotton boxers for all-day comfort,3795,No discount,fresh_arrivals
+P1048,Boxers 49,Boxers,clothing,Blended material boxers with a snug fit,3159,No discount,Limited Edition
+P1049,Sandals 50,Sandals,footwear,Stylish leather sandals for summer,3663,Buy 1 Get 1,offer/sale/discount
+P1050,Shirts 51,Shirts,clothing,Elegant silk design perfect for formal occasions,2106,No discount,fresh_arrivals
+P1051,Sandals 52,Sandals,footwear,Comfortable synthetic sandals for casual wear,1821,Flat 50% Off,offer/sale/discount
+P1052,Sunglasses 53,Sunglasses,accessories,UV protection sunglasses for sunny days,2578,No discount,fresh_arrivals
+P1053,Shirts 54,Shirts,clothing,Elegant silk design perfect for formal occasions,1331,20% Off,offer/sale/discount
+P1054,T-Shirts 55,Tshirts,clothing,Casual and comfortable blended material,3831,Buy 1 Get 1,offer/sale/discount
+P1055,Jeans 56,Jeans,clothing,Classic denim with a modern twist,3135,Flat 50% Off,offer/sale/discount
+P1056,Watches 57,Watches,accessories,Classic analog watch with a leather strap,3586,Flat 50% Off,offer/sale/discount
+P1057,Shirts 58,Shirts,clothing,Made with premium linen for a luxurious feel,4917,No discount,Limited Edition
+P1058,Sandals 59,Sandals,footwear,Stylish leather sandals for summer,2397,Clearance Sale,offer/sale/discount
+P1059,Shorts 60,Shorts,clothing,Lightweight cotton shorts for hot days,963,No discount,fresh_arrivals
+P1060,Jeans 61,Jeans,clothing,Stretch denim for added comfort and flexibility,978,Buy 1 Get 1,offer/sale/discount
+P1061,Formal Shoes 62,Formal Shoes,footwear,Durable synthetic material with a sleek finish,4029,20% Off,offer/sale/discount
+P1062,Jackets 63,Jackets,clothing,Trendy denim jacket for casual outings,1772,Buy 1 Get 1,offer/sale/discount
+P1063,Casual Shoes 64,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,2156,No discount,fresh_arrivals
+P1064,Ethnic Wear 65,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,4022,No discount,fresh_arrivals
+P1065,Shirts 66,Shirts,clothing,Elegant silk design perfect for formal occasions,778,No discount,fresh_arrivals
+P1066,Watches 67,Watches,accessories,Modern digital watch with various features,3998,Clearance Sale,offer/sale/discount
+P1067,T-Shirts 68,Tshirts,clothing,Durable polyester blend for active lifestyles,1693,20% Off,offer/sale/discount
+P1068,Watches 69,Watches,accessories,Modern digital watch with various features,2396,No discount,fresh_arrivals
+P1069,Watches 70,Watches,accessories,Classic analog watch with a leather strap,1926,Clearance Sale,offer/sale/discount
+P1070,Shirts 71,Shirts,clothing,Elegant silk design perfect for formal occasions,2394,No discount,Limited Edition
+P1071,Jackets 72,Jackets,clothing,Trendy denim jacket for casual outings,2832,No discount,fresh_arrivals
+P1072,Jeans 73,Jeans,clothing,Stretch denim for added comfort and flexibility,1549,No discount,fresh_arrivals
+P1073,T-Shirts 74,Tshirts,clothing,Durable polyester blend for active lifestyles,862,No discount,fresh_arrivals
+P1074,Shorts 75,Shorts,clothing,Quick-drying polyester shorts for active wear,3024,Flat 50% Off,offer/sale/discount
+P1075,Formal Shoes 76,Formal Shoes,footwear,Polished leather shoes for formal events,4607,No discount,fresh_arrivals
+P1076,Jackets 77,Jackets,clothing,Genuine leather jacket with a rugged look,3564,Buy 1 Get 1,offer/sale/discount
+P1077,Sandals 78,Sandals,footwear,Stylish leather sandals for summer,3905,Buy 1 Get 1,offer/sale/discount
+P1078,Sandals 79,Sandals,footwear,Stylish leather sandals for summer,4788,Buy 1 Get 1,offer/sale/discount
+P1079,Sunglasses 80,Sunglasses,accessories,UV protection sunglasses for sunny days,3262,Buy 1 Get 1,offer/sale/discount
+P1080,Hoodies 81,Hoodies,clothing,Cozy fleece interior for extra warmth,3407,No discount,fresh_arrivals
+P1081,Ethnic Wear 82,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,915,No discount,fresh_arrivals
+P1082,Sweaters 83,Sweaters,clothing,Warm wool knit for chilly days,1195,No discount,fresh_arrivals
+P1083,Ethnic Wear 84,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,3320,Clearance Sale,offer/sale/discount
+P1084,Casual Shoes 85,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,4230,No discount,Limited Edition
+P1085,Sweaters 86,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,4797,Buy 1 Get 1,offer/sale/discount
+P1086,Sweaters 87,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,3651,No discount,fresh_arrivals
+P1087,Boxers 88,Boxers,clothing,Soft cotton boxers for all-day comfort,4688,No discount,fresh_arrivals
+P1088,Formal Shoes 89,Formal Shoes,footwear,Durable synthetic material with a sleek finish,2545,No discount,Limited Edition
+P1089,Shirts 90,Shirts,clothing,Made with premium linen for a luxurious feel,2541,No discount,Limited Edition
+P1090,Sandals 91,Sandals,footwear,Comfortable synthetic sandals for casual wear,581,20% Off,offer/sale/discount
+P1091,Watches 92,Watches,accessories,Modern digital watch with various features,1025,No discount,fresh_arrivals
+P1092,Ethnic Wear 93,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,2775,No discount,Limited Edition
+P1093,Ethnic Wear 94,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,4685,No discount,fresh_arrivals
+P1094,Belts 95,Belts,accessories,Versatile synthetic belt for casual outfits,800,20% Off,offer/sale/discount
+P1095,Ethnic Wear 96,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,1408,20% Off,offer/sale/discount
+P1096,Hoodies 97,Hoodies,clothing,Stylish cotton hoodie with a relaxed fit,4650,No discount,fresh_arrivals
+P1097,Sandals 98,Sandals,footwear,Comfortable synthetic sandals for casual wear,757,No discount,fresh_arrivals
+P1098,Jeans 99,Jeans,clothing,Classic denim with a modern twist,1740,Flat 50% Off,offer/sale/discount
+P1099,Sunglasses 100,Sunglasses,accessories,UV protection sunglasses for sunny days,633,Flat 50% Off,offer/sale/discount
+P1100,Watches 101,Watches,accessories,Classic analog watch with a leather strap,3745,No discount,Limited Edition
+P1101,Casual Shoes 102,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,4871,20% Off,offer/sale/discount
+P1102,Shorts 103,Shorts,clothing,Quick-drying polyester shorts for active wear,1618,No discount,fresh_arrivals
+P1103,T-Shirts 104,Tshirts,clothing,Breathable cotton fabric ideal for everyday wear,2463,20% Off,offer/sale/discount
+P1104,Hoodies 105,Hoodies,clothing,Stylish cotton hoodie with a relaxed fit,4024,Flat 50% Off,offer/sale/discount
+P1105,Formal Shoes 106,Formal Shoes,footwear,Durable synthetic material with a sleek finish,1832,Flat 50% Off,offer/sale/discount
+P1106,Shirts 107,Shirts,clothing,Crafted from soft cotton for ultimate comfort,4962,No discount,Limited Edition
+P1107,Belts 108,Belts,accessories,Elegant leather belt for formal wear,4144,Buy 1 Get 1,offer/sale/discount
+P1108,Sandals 109,Sandals,footwear,Comfortable synthetic sandals for casual wear,3541,20% Off,offer/sale/discount
+P1109,Sandals 110,Sandals,footwear,Comfortable synthetic sandals for casual wear,2510,Buy 1 Get 1,offer/sale/discount
+P1110,Ethnic Wear 111,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,1382,20% Off,offer/sale/discount
+P1111,Casual Shoes 112,Casual Shoes,footwear,Comfortable leather loafers for everyday use,1539,No discount,fresh_arrivals
+P1112,Sunglasses 113,Sunglasses,accessories,UV protection sunglasses for sunny days,2655,No discount,fresh_arrivals
+P1113,Formal Shoes 114,Formal Shoes,footwear,Polished leather shoes for formal events,4907,No discount,fresh_arrivals
+P1114,Sweaters 115,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,1363,Flat 50% Off,offer/sale/discount
+P1115,Hoodies 116,Hoodies,clothing,Cozy fleece interior for extra warmth,1326,20% Off,offer/sale/discount
+P1116,T-Shirts 117,Tshirts,clothing,Breathable cotton fabric ideal for everyday wear,4283,20% Off,offer/sale/discount
+P1117,Hoodies 118,Hoodies,clothing,Cozy fleece interior for extra warmth,2720,No discount,fresh_arrivals
+P1118,Ethnic Wear 119,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,1924,No discount,fresh_arrivals
+P1119,Sunglasses 120,Sunglasses,accessories,UV protection sunglasses for sunny days,1778,Flat 50% Off,offer/sale/discount
+P1120,Jackets 121,Jackets,clothing,Genuine leather jacket with a rugged look,4365,Clearance Sale,offer/sale/discount
+P1121,Ethnic Wear 122,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,2386,No discount,fresh_arrivals
+P1122,Jackets 123,Jackets,clothing,Trendy denim jacket for casual outings,2898,Clearance Sale,offer/sale/discount
+P1123,Sandals 124,Sandals,footwear,Stylish leather sandals for summer,2592,No discount,fresh_arrivals
+P1124,Casual Shoes 125,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,3389,20% Off,offer/sale/discount
+P1125,T-Shirts 126,Tshirts,clothing,Casual and comfortable blended material,2842,Buy 1 Get 1,offer/sale/discount
+P1126,Ethnic Wear 127,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,4619,No discount,fresh_arrivals
+P1127,T-Shirts 128,Tshirts,clothing,Breathable cotton fabric ideal for everyday wear,2734,No discount,fresh_arrivals
+P1128,Belts 129,Belts,accessories,Elegant leather belt for formal wear,1281,No discount,fresh_arrivals
+P1129,Hoodies 130,Hoodies,clothing,Stylish cotton hoodie with a relaxed fit,4772,No discount,fresh_arrivals
+P1130,Casual Shoes 131,Casual Shoes,footwear,Comfortable leather loafers for everyday use,3367,No discount,fresh_arrivals
+P1131,Jackets 132,Jackets,clothing,Genuine leather jacket with a rugged look,2928,No discount,fresh_arrivals
+P1132,Sunglasses 133,Sunglasses,accessories,UV protection sunglasses for sunny days,3128,No discount,Limited Edition
+P1133,Boxers 134,Boxers,clothing,Soft cotton boxers for all-day comfort,2538,No discount,fresh_arrivals
+P1134,Casual Shoes 135,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,1650,Flat 50% Off,offer/sale/discount
+P1135,Sandals 136,Sandals,footwear,Comfortable synthetic sandals for casual wear,4899,No discount,Limited Edition
+P1136,Sweaters 137,Sweaters,clothing,Warm wool knit for chilly days,1491,Flat 50% Off,offer/sale/discount
+P1137,Jeans 138,Jeans,clothing,Classic denim with a modern twist,2977,No discount,fresh_arrivals
+P1138,Watches 139,Watches,accessories,Modern digital watch with various features,3566,No discount,fresh_arrivals
+P1139,Formal Shoes 140,Formal Shoes,footwear,Durable synthetic material with a sleek finish,4857,No discount,Limited Edition
+P1140,Shorts 141,Shorts,clothing,Quick-drying polyester shorts for active wear,4112,20% Off,offer/sale/discount
+P1141,Belts 142,Belts,accessories,Versatile synthetic belt for casual outfits,1287,Flat 50% Off,offer/sale/discount
+P1142,Ethnic Wear 143,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,993,No discount,fresh_arrivals
+P1143,Formal Shoes 144,Formal Shoes,footwear,Durable synthetic material with a sleek finish,2016,20% Off,offer/sale/discount
+P1144,Shirts 145,Shirts,clothing,Crafted from soft cotton for ultimate comfort,4087,Buy 1 Get 1,offer/sale/discount
+P1145,Formal Shoes 146,Formal Shoes,footwear,Polished leather shoes for formal events,2908,No discount,fresh_arrivals
+P1146,Hoodies 147,Hoodies,clothing,Cozy fleece interior for extra warmth,3634,Buy 1 Get 1,offer/sale/discount
+P1147,Sandals 148,Sandals,footwear,Stylish leather sandals for summer,786,20% Off,offer/sale/discount
+P1148,Casual Shoes 149,Casual Shoes,footwear,Comfortable leather loafers for everyday use,4340,No discount,fresh_arrivals
+P1149,Shorts 150,Shorts,clothing,Quick-drying polyester shorts for active wear,1566,Flat 50% Off,offer/sale/discount
+P1150,Shorts 151,Shorts,clothing,Quick-drying polyester shorts for active wear,4149,Clearance Sale,offer/sale/discount
+P1151,Ethnic Wear 152,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,4186,Flat 50% Off,offer/sale/discount
+P1152,Watches 153,Watches,accessories,Modern digital watch with various features,3169,No discount,fresh_arrivals
+P1153,Sweaters 154,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,1083,No discount,fresh_arrivals
+P1154,Sweaters 155,Sweaters,clothing,Warm wool knit for chilly days,3073,No discount,fresh_arrivals
+P1155,Formal Shoes 156,Formal Shoes,footwear,Durable synthetic material with a sleek finish,2378,Buy 1 Get 1,offer/sale/discount
+P1156,Watches 157,Watches,accessories,Modern digital watch with various features,2061,No discount,fresh_arrivals
+P1157,Sweaters 158,Sweaters,clothing,Warm wool knit for chilly days,2431,No discount,fresh_arrivals
+P1158,Casual Shoes 159,Casual Shoes,footwear,Comfortable leather loafers for everyday use,1416,20% Off,offer/sale/discount
+P1159,Ethnic Wear 160,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,3484,No discount,fresh_arrivals
+P1160,Jeans 161,Jeans,clothing,Stretch denim for added comfort and flexibility,4773,No discount,fresh_arrivals
+P1161,Hoodies 162,Hoodies,clothing,Cozy fleece interior for extra warmth,672,No discount,fresh_arrivals
+P1162,Ethnic Wear 163,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,4954,20% Off,offer/sale/discount
+P1163,Shorts 164,Shorts,clothing,Quick-drying polyester shorts for active wear,3491,20% Off,offer/sale/discount
+P1164,Belts 165,Belts,accessories,Elegant leather belt for formal wear,4981,No discount,fresh_arrivals
+P1165,Belts 166,Belts,accessories,Versatile synthetic belt for casual outfits,1412,No discount,fresh_arrivals
+P1166,Sweaters 167,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,3756,Buy 1 Get 1,offer/sale/discount
+P1167,Shirts 168,Shirts,clothing,Crafted from soft cotton for ultimate comfort,4087,Flat 50% Off,offer/sale/discount
+P1168,Sunglasses 169,Sunglasses,accessories,Polarized sunglasses for clear vision,4671,20% Off,offer/sale/discount
+P1169,Watches 170,Watches,accessories,Classic analog watch with a leather strap,2581,No discount,fresh_arrivals
+P1170,Ethnic Wear 171,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,3490,No discount,fresh_arrivals
+P1171,T-Shirts 172,Tshirts,clothing,Casual and comfortable blended material,4253,No discount,fresh_arrivals
+P1172,Ethnic Wear 173,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,4513,Flat 50% Off,offer/sale/discount
+P1173,Belts 174,Belts,accessories,Versatile synthetic belt for casual outfits,4547,20% Off,offer/sale/discount
+P1174,Sandals 175,Sandals,footwear,Stylish leather sandals for summer,2238,Flat 50% Off,offer/sale/discount
+P1175,Sweaters 176,Sweaters,clothing,Warm wool knit for chilly days,891,No discount,fresh_arrivals
+P1176,Shirts 177,Shirts,clothing,Crafted from soft cotton for ultimate comfort,677,No discount,fresh_arrivals
+P1177,Sweaters 178,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,1851,20% Off,offer/sale/discount
+P1178,Jackets 179,Jackets,clothing,Trendy denim jacket for casual outings,1279,No discount,fresh_arrivals
+P1179,Boxers 180,Boxers,clothing,Soft cotton boxers for all-day comfort,4735,20% Off,offer/sale/discount
+P1180,Shirts 181,Shirts,clothing,Made with premium linen for a luxurious feel,3928,20% Off,offer/sale/discount
+P1181,Boxers 182,Boxers,clothing,Blended material boxers with a snug fit,2140,Clearance Sale,offer/sale/discount
+P1182,Jackets 183,Jackets,clothing,Genuine leather jacket with a rugged look,4390,Buy 1 Get 1,offer/sale/discount
+P1183,Shorts 184,Shorts,clothing,Quick-drying polyester shorts for active wear,4820,No discount,Limited Edition
+P1184,Jeans 185,Jeans,clothing,Stretch denim for added comfort and flexibility,3889,No discount,fresh_arrivals
+P1185,Sunglasses 186,Sunglasses,accessories,UV protection sunglasses for sunny days,3801,Flat 50% Off,offer/sale/discount
+P1186,Sweaters 187,Sweaters,clothing,Warm wool knit for chilly days,3800,Buy 1 Get 1,offer/sale/discount
+P1187,Belts 188,Belts,accessories,Versatile synthetic belt for casual outfits,3382,Flat 50% Off,offer/sale/discount
+P1188,Jeans 189,Jeans,clothing,Stretch denim for added comfort and flexibility,2998,No discount,fresh_arrivals
+P1189,Boxers 190,Boxers,clothing,Soft cotton boxers for all-day comfort,2579,20% Off,offer/sale/discount
+P1190,Shirts 191,Shirts,clothing,Elegant silk design perfect for formal occasions,1657,Flat 50% Off,offer/sale/discount
+P1191,Jeans 192,Jeans,clothing,Classic denim with a modern twist,1174,No discount,fresh_arrivals
+P1192,Formal Shoes 193,Formal Shoes,footwear,Durable synthetic material with a sleek finish,3288,Buy 1 Get 1,offer/sale/discount
+P1193,Belts 194,Belts,accessories,Versatile synthetic belt for casual outfits,3704,No discount,Limited Edition
+P1194,Sweaters 195,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,4353,No discount,fresh_arrivals
+P1195,Shirts 196,Shirts,clothing,Made with premium linen for a luxurious feel,2812,No discount,fresh_arrivals
+P1196,Watches 197,Watches,accessories,Modern digital watch with various features,3324,No discount,Limited Edition
+P1197,Belts 198,Belts,accessories,Elegant leather belt for formal wear,2292,No discount,fresh_arrivals
+P1198,Hoodies 199,Hoodies,clothing,Cozy fleece interior for extra warmth,1959,No discount,fresh_arrivals
+P1199,Sandals 200,Sandals,footwear,Comfortable synthetic sandals for casual wear,1598,No discount,fresh_arrivals
+P1200,Jeans 201,Jeans,clothing,Stretch denim for added comfort and flexibility,1657,No discount,fresh_arrivals
+P1201,Shirts 202,Shirts,clothing,Made with premium linen for a luxurious feel,698,No discount,fresh_arrivals
+P1202,Sweaters 203,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,521,Flat 50% Off,offer/sale/discount
+P1203,Shorts 204,Shorts,clothing,Lightweight cotton shorts for hot days,4018,20% Off,offer/sale/discount
+P1204,Jeans 205,Jeans,clothing,Stretch denim for added comfort and flexibility,1891,20% Off,offer/sale/discount
+P1205,Ethnic Wear 206,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,4742,20% Off,offer/sale/discount
+P1206,Belts 207,Belts,accessories,Elegant leather belt for formal wear,906,No discount,fresh_arrivals
+P1207,Jeans 208,Jeans,clothing,Classic denim with a modern twist,4228,No discount,fresh_arrivals
+P1208,Sweaters 209,Sweaters,clothing,Warm wool knit for chilly days,503,Clearance Sale,offer/sale/discount
+P1209,Shirts 210,Shirts,clothing,Crafted from soft cotton for ultimate comfort,3208,No discount,fresh_arrivals
+P1210,Shorts 211,Shorts,clothing,Quick-drying polyester shorts for active wear,1657,Clearance Sale,offer/sale/discount
+P1211,Jeans 212,Jeans,clothing,Stretch denim for added comfort and flexibility,1646,No discount,fresh_arrivals
+P1212,Jackets 213,Jackets,clothing,Genuine leather jacket with a rugged look,2607,No discount,fresh_arrivals
+P1213,Jeans 214,Jeans,clothing,Classic denim with a modern twist,1835,No discount,fresh_arrivals
+P1214,Ethnic Wear 215,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,3278,Buy 1 Get 1,offer/sale/discount
+P1215,Sandals 216,Sandals,footwear,Comfortable synthetic sandals for casual wear,2871,Clearance Sale,offer/sale/discount
+P1216,Ethnic Wear 217,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,2425,Flat 50% Off,offer/sale/discount
+P1217,Formal Shoes 218,Formal Shoes,footwear,Durable synthetic material with a sleek finish,2930,Flat 50% Off,offer/sale/discount
+P1218,Formal Shoes 219,Formal Shoes,footwear,Durable synthetic material with a sleek finish,3502,No discount,fresh_arrivals
+P1219,Belts 220,Belts,accessories,Versatile synthetic belt for casual outfits,2149,Buy 1 Get 1,offer/sale/discount
+P1220,Formal Shoes 221,Formal Shoes,footwear,Polished leather shoes for formal events,3094,No discount,fresh_arrivals
+P1221,T-Shirts 222,Tshirts,clothing,Durable polyester blend for active lifestyles,902,Flat 50% Off,offer/sale/discount
+P1222,Jackets 223,Jackets,clothing,Genuine leather jacket with a rugged look,633,Buy 1 Get 1,offer/sale/discount
+P1223,Sweaters 224,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,4619,Buy 1 Get 1,offer/sale/discount
+P1224,T-Shirts 225,Tshirts,clothing,Breathable cotton fabric ideal for everyday wear,3024,No discount,fresh_arrivals
+P1225,Casual Shoes 226,Casual Shoes,footwear,Comfortable leather loafers for everyday use,4247,No discount,fresh_arrivals
+P1226,Jackets 227,Jackets,clothing,Water-resistant synthetic material for all weather,4610,No discount,fresh_arrivals
+P1227,Formal Shoes 228,Formal Shoes,footwear,Durable synthetic material with a sleek finish,4907,Flat 50% Off,offer/sale/discount
+P1228,Belts 229,Belts,accessories,Versatile synthetic belt for casual outfits,1067,No discount,fresh_arrivals
+P1229,Sandals 230,Sandals,footwear,Stylish leather sandals for summer,3883,No discount,fresh_arrivals
+P1230,Casual Shoes 231,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,2647,Buy 1 Get 1,offer/sale/discount
+P1231,Ethnic Wear 232,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,1955,No discount,fresh_arrivals
+P1232,Boxers 233,Boxers,clothing,Blended material boxers with a snug fit,2476,No discount,fresh_arrivals
+P1233,Formal Shoes 234,Formal Shoes,footwear,Polished leather shoes for formal events,1935,20% Off,offer/sale/discount
+P1234,Jeans 235,Jeans,clothing,Classic denim with a modern twist,987,No discount,fresh_arrivals
+P1235,Belts 236,Belts,accessories,Elegant leather belt for formal wear,2293,Buy 1 Get 1,offer/sale/discount
+P1236,Sunglasses 237,Sunglasses,accessories,UV protection sunglasses for sunny days,2360,No discount,fresh_arrivals
+P1237,T-Shirts 238,Tshirts,clothing,Casual and comfortable blended material,986,No discount,fresh_arrivals
+P1238,Shirts 239,Shirts,clothing,Crafted from soft cotton for ultimate comfort,657,No discount,fresh_arrivals
+P1239,Hoodies 240,Hoodies,clothing,Stylish cotton hoodie with a relaxed fit,1349,Flat 50% Off,offer/sale/discount
+P1240,Sandals 241,Sandals,footwear,Comfortable synthetic sandals for casual wear,3930,No discount,fresh_arrivals
+P1241,Boxers 242,Boxers,clothing,Blended material boxers with a snug fit,2652,Flat 50% Off,offer/sale/discount
+P1242,Shirts 243,Shirts,clothing,Crafted from soft cotton for ultimate comfort,4621,Buy 1 Get 1,offer/sale/discount
+P1243,Jeans 244,Jeans,clothing,Classic denim with a modern twist,1734,20% Off,offer/sale/discount
+P1244,Boxers 245,Boxers,clothing,Blended material boxers with a snug fit,3306,Buy 1 Get 1,offer/sale/discount
+P1245,Ethnic Wear 246,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,4999,No discount,fresh_arrivals
+P1246,Shorts 247,Shorts,clothing,Lightweight cotton shorts for hot days,4694,No discount,fresh_arrivals
+P1247,Watches 248,Watches,accessories,Classic analog watch with a leather strap,634,20% Off,offer/sale/discount
+P1248,Formal Shoes 249,Formal Shoes,footwear,Durable synthetic material with a sleek finish,2600,No discount,fresh_arrivals
+P1249,Shorts 250,Shorts,clothing,Lightweight cotton shorts for hot days,2468,20% Off,offer/sale/discount
+P1250,Belts 251,Belts,accessories,Elegant leather belt for formal wear,3604,No discount,Limited Edition
+P1251,Hoodies 252,Hoodies,clothing,Stylish cotton hoodie with a relaxed fit,2521,20% Off,offer/sale/discount
+P1252,Boxers 253,Boxers,clothing,Soft cotton boxers for all-day comfort,839,No discount,fresh_arrivals
+P1253,Jeans 254,Jeans,clothing,Stretch denim for added comfort and flexibility,1858,Flat 50% Off,offer/sale/discount
+P1254,Sandals 255,Sandals,footwear,Comfortable synthetic sandals for casual wear,1444,Buy 1 Get 1,offer/sale/discount
+P1255,Ethnic Wear 256,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,513,20% Off,offer/sale/discount
+P1256,Shorts 257,Shorts,clothing,Lightweight cotton shorts for hot days,3816,Clearance Sale,offer/sale/discount
+P1257,Boxers 258,Boxers,clothing,Soft cotton boxers for all-day comfort,2792,No discount,fresh_arrivals
+P1258,Jackets 259,Jackets,clothing,Water-resistant synthetic material for all weather,3319,No discount,fresh_arrivals
+P1259,Sandals 260,Sandals,footwear,Stylish leather sandals for summer,1448,No discount,fresh_arrivals
+P1260,Sunglasses 261,Sunglasses,accessories,Polarized sunglasses for clear vision,1003,Buy 1 Get 1,offer/sale/discount
+P1261,Boxers 262,Boxers,clothing,Blended material boxers with a snug fit,914,No discount,Limited Edition
+P1262,Ethnic Wear 263,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,900,No discount,Limited Edition
+P1263,Belts 264,Belts,accessories,Versatile synthetic belt for casual outfits,1367,No discount,Limited Edition
+P1264,Ethnic Wear 265,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,4755,Flat 50% Off,offer/sale/discount
+P1265,Boxers 266,Boxers,clothing,Soft cotton boxers for all-day comfort,1340,No discount,fresh_arrivals
+P1266,Jeans 267,Jeans,clothing,Stretch denim for added comfort and flexibility,1520,No discount,fresh_arrivals
+P1267,Belts 268,Belts,accessories,Elegant leather belt for formal wear,3183,No discount,fresh_arrivals
+P1268,Jackets 269,Jackets,clothing,Trendy denim jacket for casual outings,2088,No discount,fresh_arrivals
+P1269,Sunglasses 270,Sunglasses,accessories,Polarized sunglasses for clear vision,1726,No discount,fresh_arrivals
+P1270,Jeans 271,Jeans,clothing,Stretch denim for added comfort and flexibility,2988,No discount,fresh_arrivals
+P1271,Watches 272,Watches,accessories,Classic analog watch with a leather strap,4926,No discount,fresh_arrivals
+P1272,T-Shirts 273,Tshirts,clothing,Casual and comfortable blended material,2128,No discount,fresh_arrivals
+P1273,Shirts 274,Shirts,clothing,Made with premium linen for a luxurious feel,1564,No discount,Limited Edition
+P1274,Formal Shoes 275,Formal Shoes,footwear,Durable synthetic material with a sleek finish,4625,No discount,fresh_arrivals
+P1275,Jackets 276,Jackets,clothing,Trendy denim jacket for casual outings,3318,No discount,fresh_arrivals
+P1276,Sweaters 277,Sweaters,clothing,Warm wool knit for chilly days,4021,Flat 50% Off,offer/sale/discount
+P1277,Sweaters 278,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,4371,No discount,fresh_arrivals
+P1278,Hoodies 279,Hoodies,clothing,Stylish cotton hoodie with a relaxed fit,4846,No discount,fresh_arrivals
+P1279,Boxers 280,Boxers,clothing,Blended material boxers with a snug fit,2093,Clearance Sale,offer/sale/discount
+P1280,Belts 281,Belts,accessories,Elegant leather belt for formal wear,4359,No discount,fresh_arrivals
+P1281,Formal Shoes 282,Formal Shoes,footwear,Polished leather shoes for formal events,4532,No discount,fresh_arrivals
+P1282,Shirts 283,Shirts,clothing,Elegant silk design perfect for formal occasions,2062,No discount,fresh_arrivals
+P1283,T-Shirts 284,Tshirts,clothing,Durable polyester blend for active lifestyles,3477,No discount,fresh_arrivals
+P1284,Shirts 285,Shirts,clothing,Crafted from soft cotton for ultimate comfort,1832,20% Off,offer/sale/discount
+P1285,T-Shirts 286,Tshirts,clothing,Breathable cotton fabric ideal for everyday wear,3707,No discount,fresh_arrivals
+P1286,Sunglasses 287,Sunglasses,accessories,UV protection sunglasses for sunny days,4409,Buy 1 Get 1,offer/sale/discount
+P1287,Casual Shoes 288,Casual Shoes,footwear,Comfortable leather loafers for everyday use,1866,No discount,fresh_arrivals
+P1288,Hoodies 289,Hoodies,clothing,Cozy fleece interior for extra warmth,1242,Flat 50% Off,offer/sale/discount
+P1289,Hoodies 290,Hoodies,clothing,Cozy fleece interior for extra warmth,4008,No discount,Limited Edition
+P1290,Belts 291,Belts,accessories,Versatile synthetic belt for casual outfits,1081,No discount,fresh_arrivals
+P1291,Ethnic Wear 292,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,4161,No discount,fresh_arrivals
+P1292,Shirts 293,Shirts,clothing,Crafted from soft cotton for ultimate comfort,1596,No discount,fresh_arrivals
+P1293,Shorts 294,Shorts,clothing,Lightweight cotton shorts for hot days,1951,20% Off,offer/sale/discount
+P1294,Shirts 295,Shirts,clothing,Made with premium linen for a luxurious feel,2188,Flat 50% Off,offer/sale/discount
+P1295,Shirts 296,Shirts,clothing,Crafted from soft cotton for ultimate comfort,2785,No discount,fresh_arrivals
+P1296,Sweaters 297,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,3575,Buy 1 Get 1,offer/sale/discount
+P1297,Boxers 298,Boxers,clothing,Blended material boxers with a snug fit,4251,20% Off,offer/sale/discount
+P1298,Belts 299,Belts,accessories,Versatile synthetic belt for casual outfits,2527,Clearance Sale,offer/sale/discount
+P1299,T-Shirts 300,Tshirts,clothing,Breathable cotton fabric ideal for everyday wear,1372,No discount,fresh_arrivals
+P1300,Belts 301,Belts,accessories,Versatile synthetic belt for casual outfits,2039,Flat 50% Off,offer/sale/discount
+P1301,Hoodies 302,Hoodies,clothing,Cozy fleece interior for extra warmth,2069,No discount,Limited Edition
+P1302,Ethnic Wear 303,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,3031,No discount,fresh_arrivals
+P1303,Shirts 304,Shirts,clothing,Elegant silk design perfect for formal occasions,2416,No discount,fresh_arrivals
+P1304,Boxers 305,Boxers,clothing,Blended material boxers with a snug fit,3097,No discount,fresh_arrivals
+P1305,Shorts 306,Shorts,clothing,Quick-drying polyester shorts for active wear,2102,No discount,fresh_arrivals
+P1306,T-Shirts 307,Tshirts,clothing,Breathable cotton fabric ideal for everyday wear,2104,No discount,fresh_arrivals
+P1307,Ethnic Wear 308,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,572,No discount,fresh_arrivals
+P1308,Shorts 309,Shorts,clothing,Quick-drying polyester shorts for active wear,1057,No discount,fresh_arrivals
+P1309,Sweaters 310,Sweaters,clothing,Warm wool knit for chilly days,2036,Flat 50% Off,offer/sale/discount
+P1310,Hoodies 311,Hoodies,clothing,Stylish cotton hoodie with a relaxed fit,1333,Clearance Sale,offer/sale/discount
+P1311,Ethnic Wear 312,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,3555,No discount,fresh_arrivals
+P1312,Jeans 313,Jeans,clothing,Classic denim with a modern twist,2491,No discount,fresh_arrivals
+P1313,Shorts 314,Shorts,clothing,Quick-drying polyester shorts for active wear,3018,20% Off,offer/sale/discount
+P1314,Sweaters 315,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,4805,No discount,fresh_arrivals
+P1315,Jeans 316,Jeans,clothing,Stretch denim for added comfort and flexibility,3933,No discount,Limited Edition
+P1316,Shirts 317,Shirts,clothing,Elegant silk design perfect for formal occasions,1846,Buy 1 Get 1,offer/sale/discount
+P1317,Belts 318,Belts,accessories,Elegant leather belt for formal wear,2105,No discount,Limited Edition
+P1318,Ethnic Wear 319,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,4029,No discount,fresh_arrivals
+P1319,Formal Shoes 320,Formal Shoes,footwear,Polished leather shoes for formal events,2022,No discount,fresh_arrivals
+P1320,T-Shirts 321,Tshirts,clothing,Breathable cotton fabric ideal for everyday wear,4127,Buy 1 Get 1,offer/sale/discount
+P1321,Jeans 322,Jeans,clothing,Classic denim with a modern twist,1934,No discount,fresh_arrivals
+P1322,Formal Shoes 323,Formal Shoes,footwear,Durable synthetic material with a sleek finish,3265,No discount,fresh_arrivals
+P1323,Sweaters 324,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,1040,No discount,fresh_arrivals
+P1324,Shirts 325,Shirts,clothing,Elegant silk design perfect for formal occasions,3152,No discount,fresh_arrivals
+P1325,Ethnic Wear 326,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,847,No discount,fresh_arrivals
+P1326,Shirts 327,Shirts,clothing,Made with premium linen for a luxurious feel,4412,No discount,Limited Edition
+P1327,Sweaters 328,Sweaters,clothing,Warm wool knit for chilly days,2202,No discount,Limited Edition
+P1328,T-Shirts 329,Tshirts,clothing,Durable polyester blend for active lifestyles,4682,No discount,Limited Edition
+P1329,Sweaters 330,Sweaters,clothing,Warm wool knit for chilly days,1372,No discount,fresh_arrivals
+P1330,Shorts 331,Shorts,clothing,Quick-drying polyester shorts for active wear,4797,Clearance Sale,offer/sale/discount
+P1331,Jeans 332,Jeans,clothing,Stretch denim for added comfort and flexibility,2506,Clearance Sale,offer/sale/discount
+P1332,T-Shirts 333,Tshirts,clothing,Breathable cotton fabric ideal for everyday wear,2331,20% Off,offer/sale/discount
+P1333,Shirts 334,Shirts,clothing,Made with premium linen for a luxurious feel,1351,No discount,Limited Edition
+P1334,Watches 335,Watches,accessories,Modern digital watch with various features,4371,No discount,fresh_arrivals
+P1335,Belts 336,Belts,accessories,Elegant leather belt for formal wear,2954,No discount,Limited Edition
+P1336,Ethnic Wear 337,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,4287,Flat 50% Off,offer/sale/discount
+P1337,Casual Shoes 338,Casual Shoes,footwear,Comfortable leather loafers for everyday use,4157,No discount,fresh_arrivals
+P1338,T-Shirts 339,Tshirts,clothing,Casual and comfortable blended material,3725,Buy 1 Get 1,offer/sale/discount
+P1339,Shirts 340,Shirts,clothing,Crafted from soft cotton for ultimate comfort,2455,Clearance Sale,offer/sale/discount
+P1340,Sandals 341,Sandals,footwear,Comfortable synthetic sandals for casual wear,3893,No discount,fresh_arrivals
+P1341,Shirts 342,Shirts,clothing,Made with premium linen for a luxurious feel,4581,No discount,fresh_arrivals
+P1342,T-Shirts 343,Tshirts,clothing,Breathable cotton fabric ideal for everyday wear,3110,No discount,Limited Edition
+P1343,Shorts 344,Shorts,clothing,Lightweight cotton shorts for hot days,3508,No discount,fresh_arrivals
+P1344,Belts 345,Belts,accessories,Versatile synthetic belt for casual outfits,4809,20% Off,offer/sale/discount
+P1345,Shirts 346,Shirts,clothing,Elegant silk design perfect for formal occasions,806,Buy 1 Get 1,offer/sale/discount
+P1346,Watches 347,Watches,accessories,Modern digital watch with various features,4795,No discount,fresh_arrivals
+P1347,Shorts 348,Shorts,clothing,Quick-drying polyester shorts for active wear,3789,No discount,fresh_arrivals
+P1348,Shorts 349,Shorts,clothing,Quick-drying polyester shorts for active wear,4123,No discount,fresh_arrivals
+P1349,Formal Shoes 350,Formal Shoes,footwear,Polished leather shoes for formal events,1803,Clearance Sale,offer/sale/discount
+P1350,Sweaters 351,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,2969,No discount,fresh_arrivals
+P1351,Shorts 352,Shorts,clothing,Lightweight cotton shorts for hot days,1395,Clearance Sale,offer/sale/discount
+P1352,Boxers 353,Boxers,clothing,Soft cotton boxers for all-day comfort,2763,Clearance Sale,offer/sale/discount
+P1353,Formal Shoes 354,Formal Shoes,footwear,Durable synthetic material with a sleek finish,1208,20% Off,offer/sale/discount
+P1354,Boxers 355,Boxers,clothing,Soft cotton boxers for all-day comfort,3413,Clearance Sale,offer/sale/discount
+P1355,T-Shirts 356,Tshirts,clothing,Breathable cotton fabric ideal for everyday wear,4380,No discount,fresh_arrivals
+P1356,Boxers 357,Boxers,clothing,Blended material boxers with a snug fit,1554,No discount,Limited Edition
+P1357,Casual Shoes 358,Casual Shoes,footwear,Comfortable leather loafers for everyday use,4097,Flat 50% Off,offer/sale/discount
+P1358,Shorts 359,Shorts,clothing,Quick-drying polyester shorts for active wear,638,No discount,fresh_arrivals
+P1359,Hoodies 360,Hoodies,clothing,Cozy fleece interior for extra warmth,2124,No discount,Limited Edition
+P1360,Sandals 361,Sandals,footwear,Comfortable synthetic sandals for casual wear,4626,Flat 50% Off,offer/sale/discount
+P1361,Ethnic Wear 362,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,4378,Flat 50% Off,offer/sale/discount
+P1362,Jeans 363,Jeans,clothing,Classic denim with a modern twist,2267,No discount,fresh_arrivals
+P1363,Belts 364,Belts,accessories,Versatile synthetic belt for casual outfits,3390,No discount,Limited Edition
+P1364,Hoodies 365,Hoodies,clothing,Cozy fleece interior for extra warmth,3469,Clearance Sale,offer/sale/discount
+P1365,Sunglasses 366,Sunglasses,accessories,Polarized sunglasses for clear vision,3232,Clearance Sale,offer/sale/discount
+P1366,Shirts 367,Shirts,clothing,Elegant silk design perfect for formal occasions,4934,No discount,fresh_arrivals
+P1367,Jackets 368,Jackets,clothing,Water-resistant synthetic material for all weather,3768,Buy 1 Get 1,offer/sale/discount
+P1368,Formal Shoes 369,Formal Shoes,footwear,Polished leather shoes for formal events,3412,No discount,fresh_arrivals
+P1369,Ethnic Wear 370,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,3519,No discount,fresh_arrivals
+P1370,Hoodies 371,Hoodies,clothing,Cozy fleece interior for extra warmth,2619,Flat 50% Off,offer/sale/discount
+P1371,Boxers 372,Boxers,clothing,Soft cotton boxers for all-day comfort,1362,No discount,fresh_arrivals
+P1372,T-Shirts 373,Tshirts,clothing,Casual and comfortable blended material,3778,No discount,fresh_arrivals
+P1373,Shorts 374,Shorts,clothing,Quick-drying polyester shorts for active wear,4432,Flat 50% Off,offer/sale/discount
+P1374,Ethnic Wear 375,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,4096,Buy 1 Get 1,offer/sale/discount
+P1375,Watches 376,Watches,accessories,Classic analog watch with a leather strap,2605,20% Off,offer/sale/discount
+P1376,Casual Shoes 377,Casual Shoes,footwear,Comfortable leather loafers for everyday use,4667,Flat 50% Off,offer/sale/discount
+P1377,Formal Shoes 378,Formal Shoes,footwear,Polished leather shoes for formal events,2261,No discount,Limited Edition
+P1378,Sandals 379,Sandals,footwear,Comfortable synthetic sandals for casual wear,2519,No discount,fresh_arrivals
+P1379,Sunglasses 380,Sunglasses,accessories,UV protection sunglasses for sunny days,4728,Clearance Sale,offer/sale/discount
+P1380,Sweaters 381,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,4837,Flat 50% Off,offer/sale/discount
+P1381,Ethnic Wear 382,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,3154,Flat 50% Off,offer/sale/discount
+P1382,Ethnic Wear 383,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,4072,No discount,Limited Edition
+P1383,Belts 384,Belts,accessories,Elegant leather belt for formal wear,639,No discount,fresh_arrivals
+P1384,Boxers 385,Boxers,clothing,Soft cotton boxers for all-day comfort,2916,Clearance Sale,offer/sale/discount
+P1385,Boxers 386,Boxers,clothing,Blended material boxers with a snug fit,2289,No discount,fresh_arrivals
+P1386,Sandals 387,Sandals,footwear,Comfortable synthetic sandals for casual wear,1146,No discount,fresh_arrivals
+P1387,Formal Shoes 388,Formal Shoes,footwear,Durable synthetic material with a sleek finish,2943,No discount,Limited Edition
+P1388,Hoodies 389,Hoodies,clothing,Cozy fleece interior for extra warmth,2288,Buy 1 Get 1,offer/sale/discount
+P1389,Shirts 390,Shirts,clothing,Crafted from soft cotton for ultimate comfort,4336,No discount,fresh_arrivals
+P1390,Shorts 391,Shorts,clothing,Quick-drying polyester shorts for active wear,1165,No discount,fresh_arrivals
+P1391,Jackets 392,Jackets,clothing,Genuine leather jacket with a rugged look,3961,Buy 1 Get 1,offer/sale/discount
+P1392,Hoodies 393,Hoodies,clothing,Cozy fleece interior for extra warmth,1690,No discount,fresh_arrivals
+P1393,Boxers 394,Boxers,clothing,Soft cotton boxers for all-day comfort,2185,No discount,fresh_arrivals
+P1394,Ethnic Wear 395,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,2079,No discount,fresh_arrivals
+P1395,Hoodies 396,Hoodies,clothing,Cozy fleece interior for extra warmth,3461,No discount,fresh_arrivals
+P1396,Ethnic Wear 397,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,1064,No discount,fresh_arrivals
+P1397,Boxers 398,Boxers,clothing,Soft cotton boxers for all-day comfort,607,No discount,fresh_arrivals
+P1398,Boxers 399,Boxers,clothing,Blended material boxers with a snug fit,3789,No discount,fresh_arrivals
+P1399,Jeans 400,Jeans,clothing,Classic denim with a modern twist,2254,Buy 1 Get 1,offer/sale/discount
+P1400,Watches 401,Watches,accessories,Classic analog watch with a leather strap,2719,No discount,fresh_arrivals
+P1401,Belts 402,Belts,accessories,Elegant leather belt for formal wear,4632,No discount,fresh_arrivals
+P1402,Casual Shoes 403,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,1132,Buy 1 Get 1,offer/sale/discount
+P1403,Shorts 404,Shorts,clothing,Lightweight cotton shorts for hot days,2228,No discount,fresh_arrivals
+P1404,Jackets 405,Jackets,clothing,Water-resistant synthetic material for all weather,4936,Clearance Sale,offer/sale/discount
+P1405,Sunglasses 406,Sunglasses,accessories,UV protection sunglasses for sunny days,2103,No discount,fresh_arrivals
+P1406,Belts 407,Belts,accessories,Versatile synthetic belt for casual outfits,921,20% Off,offer/sale/discount
+P1407,Belts 408,Belts,accessories,Elegant leather belt for formal wear,2291,No discount,fresh_arrivals
+P1408,Watches 409,Watches,accessories,Classic analog watch with a leather strap,4918,Flat 50% Off,offer/sale/discount
+P1409,Sweaters 410,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,945,No discount,fresh_arrivals
+P1410,T-Shirts 411,Tshirts,clothing,Durable polyester blend for active lifestyles,1417,No discount,fresh_arrivals
+P1411,Ethnic Wear 412,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,3980,No discount,Limited Edition
+P1412,Boxers 413,Boxers,clothing,Blended material boxers with a snug fit,918,Flat 50% Off,offer/sale/discount
+P1413,Jeans 414,Jeans,clothing,Classic denim with a modern twist,4121,20% Off,offer/sale/discount
+P1414,Sunglasses 415,Sunglasses,accessories,UV protection sunglasses for sunny days,3705,Flat 50% Off,offer/sale/discount
+P1415,Sweaters 416,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,3510,No discount,fresh_arrivals
+P1416,Belts 417,Belts,accessories,Elegant leather belt for formal wear,3407,No discount,fresh_arrivals
+P1417,Belts 418,Belts,accessories,Elegant leather belt for formal wear,4270,No discount,fresh_arrivals
+P1418,Belts 419,Belts,accessories,Elegant leather belt for formal wear,3951,Buy 1 Get 1,offer/sale/discount
+P1419,Formal Shoes 420,Formal Shoes,footwear,Polished leather shoes for formal events,4164,No discount,fresh_arrivals
+P1420,Watches 421,Watches,accessories,Modern digital watch with various features,4450,No discount,fresh_arrivals
+P1421,Sandals 422,Sandals,footwear,Comfortable synthetic sandals for casual wear,2203,No discount,fresh_arrivals
+P1422,Watches 423,Watches,accessories,Classic analog watch with a leather strap,4898,No discount,fresh_arrivals
+P1423,Shorts 424,Shorts,clothing,Lightweight cotton shorts for hot days,1287,Flat 50% Off,offer/sale/discount
+P1424,Watches 425,Watches,accessories,Modern digital watch with various features,1637,No discount,fresh_arrivals
+P1425,Shorts 426,Shorts,clothing,Lightweight cotton shorts for hot days,753,No discount,fresh_arrivals
+P1426,Sandals 427,Sandals,footwear,Stylish leather sandals for summer,725,Flat 50% Off,offer/sale/discount
+P1427,T-Shirts 428,Tshirts,clothing,Casual and comfortable blended material,4595,Clearance Sale,offer/sale/discount
+P1428,Belts 429,Belts,accessories,Versatile synthetic belt for casual outfits,2897,Buy 1 Get 1,offer/sale/discount
+P1429,Sweaters 430,Sweaters,clothing,Warm wool knit for chilly days,3738,No discount,fresh_arrivals
+P1430,T-Shirts 431,Tshirts,clothing,Durable polyester blend for active lifestyles,1781,20% Off,offer/sale/discount
+P1431,Sweaters 432,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,612,Flat 50% Off,offer/sale/discount
+P1432,Sweaters 433,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,4955,Clearance Sale,offer/sale/discount
+P1433,Casual Shoes 434,Casual Shoes,footwear,Comfortable leather loafers for everyday use,3615,No discount,fresh_arrivals
+P1434,Casual Shoes 435,Casual Shoes,footwear,Comfortable leather loafers for everyday use,4592,Flat 50% Off,offer/sale/discount
+P1435,Jeans 436,Jeans,clothing,Classic denim with a modern twist,2731,No discount,Limited Edition
+P1436,Watches 437,Watches,accessories,Classic analog watch with a leather strap,4345,Clearance Sale,offer/sale/discount
+P1437,Formal Shoes 438,Formal Shoes,footwear,Durable synthetic material with a sleek finish,2886,Flat 50% Off,offer/sale/discount
+P1438,Sweaters 439,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,739,Buy 1 Get 1,offer/sale/discount
+P1439,Hoodies 440,Hoodies,clothing,Stylish cotton hoodie with a relaxed fit,2308,20% Off,offer/sale/discount
+P1440,Belts 441,Belts,accessories,Elegant leather belt for formal wear,2777,No discount,fresh_arrivals
+P1441,Belts 442,Belts,accessories,Versatile synthetic belt for casual outfits,2552,No discount,fresh_arrivals
+P1442,Sandals 443,Sandals,footwear,Stylish leather sandals for summer,2220,Buy 1 Get 1,offer/sale/discount
+P1443,Watches 444,Watches,accessories,Modern digital watch with various features,3626,No discount,Limited Edition
+P1444,Jeans 445,Jeans,clothing,Classic denim with a modern twist,3987,Clearance Sale,offer/sale/discount
+P1445,Watches 446,Watches,accessories,Classic analog watch with a leather strap,4391,Clearance Sale,offer/sale/discount
+P1446,Jeans 447,Jeans,clothing,Classic denim with a modern twist,1666,No discount,fresh_arrivals
+P1447,Formal Shoes 448,Formal Shoes,footwear,Polished leather shoes for formal events,1745,Flat 50% Off,offer/sale/discount
+P1448,Formal Shoes 449,Formal Shoes,footwear,Durable synthetic material with a sleek finish,2212,No discount,fresh_arrivals
+P1449,Formal Shoes 450,Formal Shoes,footwear,Durable synthetic material with a sleek finish,3526,Buy 1 Get 1,offer/sale/discount
+P1450,Belts 451,Belts,accessories,Elegant leather belt for formal wear,4683,No discount,fresh_arrivals
+P1451,Shirts 452,Shirts,clothing,Crafted from soft cotton for ultimate comfort,3618,No discount,fresh_arrivals
+P1452,Ethnic Wear 453,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,3663,Flat 50% Off,offer/sale/discount
+P1453,Shirts 454,Shirts,clothing,Elegant silk design perfect for formal occasions,2218,No discount,Limited Edition
+P1454,Sandals 455,Sandals,footwear,Comfortable synthetic sandals for casual wear,2037,No discount,Limited Edition
+P1455,Formal Shoes 456,Formal Shoes,footwear,Polished leather shoes for formal events,3578,Flat 50% Off,offer/sale/discount
+P1456,T-Shirts 457,Tshirts,clothing,Breathable cotton fabric ideal for everyday wear,3029,No discount,fresh_arrivals
+P1457,Shorts 458,Shorts,clothing,Lightweight cotton shorts for hot days,2962,No discount,fresh_arrivals
+P1458,Shirts 459,Shirts,clothing,Elegant silk design perfect for formal occasions,933,Buy 1 Get 1,offer/sale/discount
+P1459,Shirts 460,Shirts,clothing,Crafted from soft cotton for ultimate comfort,1505,Clearance Sale,offer/sale/discount
+P1460,Sandals 461,Sandals,footwear,Comfortable synthetic sandals for casual wear,1537,No discount,fresh_arrivals
+P1461,T-Shirts 462,Tshirts,clothing,Casual and comfortable blended material,4417,20% Off,offer/sale/discount
+P1462,Casual Shoes 463,Casual Shoes,footwear,Comfortable leather loafers for everyday use,2253,Buy 1 Get 1,offer/sale/discount
+P1463,Jeans 464,Jeans,clothing,Classic denim with a modern twist,1330,Clearance Sale,offer/sale/discount
+P1464,Watches 465,Watches,accessories,Classic analog watch with a leather strap,2746,No discount,Limited Edition
+P1465,Shorts 466,Shorts,clothing,Lightweight cotton shorts for hot days,4673,No discount,fresh_arrivals
+P1466,Sunglasses 467,Sunglasses,accessories,Polarized sunglasses for clear vision,4593,No discount,fresh_arrivals
+P1467,T-Shirts 468,Tshirts,clothing,Durable polyester blend for active lifestyles,4705,No discount,fresh_arrivals
+P1468,Sandals 469,Sandals,footwear,Stylish leather sandals for summer,3755,No discount,fresh_arrivals
+P1469,Sunglasses 470,Sunglasses,accessories,UV protection sunglasses for sunny days,853,20% Off,offer/sale/discount
+P1470,Hoodies 471,Hoodies,clothing,Stylish cotton hoodie with a relaxed fit,4976,Buy 1 Get 1,offer/sale/discount
+P1471,Boxers 472,Boxers,clothing,Soft cotton boxers for all-day comfort,1597,No discount,Limited Edition
+P1472,Ethnic Wear 473,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,602,Buy 1 Get 1,offer/sale/discount
+P1473,Boxers 474,Boxers,clothing,Soft cotton boxers for all-day comfort,577,Buy 1 Get 1,offer/sale/discount
+P1474,Belts 475,Belts,accessories,Versatile synthetic belt for casual outfits,3866,No discount,fresh_arrivals
+P1475,T-Shirts 476,Tshirts,clothing,Casual and comfortable blended material,3957,No discount,Limited Edition
+P1476,Hoodies 477,Hoodies,clothing,Stylish cotton hoodie with a relaxed fit,3224,No discount,fresh_arrivals
+P1477,Sweaters 478,Sweaters,clothing,Warm wool knit for chilly days,4126,Flat 50% Off,offer/sale/discount
+P1478,Watches 479,Watches,accessories,Classic analog watch with a leather strap,2595,No discount,fresh_arrivals
+P1479,Casual Shoes 480,Casual Shoes,footwear,Comfortable leather loafers for everyday use,649,No discount,fresh_arrivals
+P1480,Jackets 481,Jackets,clothing,Trendy denim jacket for casual outings,2124,Buy 1 Get 1,offer/sale/discount
+P1481,Watches 482,Watches,accessories,Classic analog watch with a leather strap,1996,20% Off,offer/sale/discount
+P1482,Jackets 483,Jackets,clothing,Trendy denim jacket for casual outings,4082,No discount,fresh_arrivals
+P1483,Jackets 484,Jackets,clothing,Water-resistant synthetic material for all weather,2642,No discount,fresh_arrivals
+P1484,Boxers 485,Boxers,clothing,Soft cotton boxers for all-day comfort,2773,Clearance Sale,offer/sale/discount
+P1485,Jeans 486,Jeans,clothing,Classic denim with a modern twist,4842,20% Off,offer/sale/discount
+P1486,Watches 487,Watches,accessories,Modern digital watch with various features,2241,20% Off,offer/sale/discount
+P1487,Sunglasses 488,Sunglasses,accessories,Polarized sunglasses for clear vision,1032,No discount,fresh_arrivals
+P1488,Belts 489,Belts,accessories,Versatile synthetic belt for casual outfits,3638,Clearance Sale,offer/sale/discount
+P1489,Shorts 490,Shorts,clothing,Quick-drying polyester shorts for active wear,1501,No discount,fresh_arrivals
+P1490,Belts 491,Belts,accessories,Elegant leather belt for formal wear,1186,No discount,fresh_arrivals
+P1491,Jeans 492,Jeans,clothing,Stretch denim for added comfort and flexibility,4406,No discount,fresh_arrivals
+P1492,Watches 493,Watches,accessories,Classic analog watch with a leather strap,889,No discount,Limited Edition
+P1493,Shirts 494,Shirts,clothing,Crafted from soft cotton for ultimate comfort,1169,Flat 50% Off,offer/sale/discount
+P1494,Hoodies 495,Hoodies,clothing,Cozy fleece interior for extra warmth,3822,No discount,fresh_arrivals
+P1495,Belts 496,Belts,accessories,Versatile synthetic belt for casual outfits,3214,No discount,fresh_arrivals
+P1496,Jackets 497,Jackets,clothing,Genuine leather jacket with a rugged look,2201,20% Off,offer/sale/discount
+P1497,Sunglasses 498,Sunglasses,accessories,UV protection sunglasses for sunny days,1574,Clearance Sale,offer/sale/discount
+P1498,Shorts 499,Shorts,clothing,Quick-drying polyester shorts for active wear,4570,No discount,fresh_arrivals
+P1499,Jackets 500,Jackets,clothing,Trendy denim jacket for casual outings,4119,No discount,fresh_arrivals
+P1500,Jeans 501,Jeans,clothing,Stretch denim for added comfort and flexibility,767,Flat 50% Off,offer/sale/discount
+P1501,Ethnic Wear 502,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,4481,No discount,fresh_arrivals
+P1502,Hoodies 503,Hoodies,clothing,Stylish cotton hoodie with a relaxed fit,4138,No discount,fresh_arrivals
+P1503,T-Shirts 504,Tshirts,clothing,Durable polyester blend for active lifestyles,4317,No discount,fresh_arrivals
+P1504,Sweaters 505,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,3750,Clearance Sale,offer/sale/discount
+P1505,Formal Shoes 506,Formal Shoes,footwear,Polished leather shoes for formal events,661,No discount,fresh_arrivals
+P1506,Watches 507,Watches,accessories,Modern digital watch with various features,4078,No discount,fresh_arrivals
+P1507,Shirts 508,Shirts,clothing,Made with premium linen for a luxurious feel,3278,Clearance Sale,offer/sale/discount
+P1508,Formal Shoes 509,Formal Shoes,footwear,Durable synthetic material with a sleek finish,4402,Clearance Sale,offer/sale/discount
+P1509,Sweaters 510,Sweaters,clothing,Warm wool knit for chilly days,2423,20% Off,offer/sale/discount
+P1510,Shirts 511,Shirts,clothing,Made with premium linen for a luxurious feel,3629,No discount,fresh_arrivals
+P1511,Shirts 512,Shirts,clothing,Made with premium linen for a luxurious feel,3614,Flat 50% Off,offer/sale/discount
+P1512,Boxers 513,Boxers,clothing,Soft cotton boxers for all-day comfort,1380,Flat 50% Off,offer/sale/discount
+P1513,Casual Shoes 514,Casual Shoes,footwear,Comfortable leather loafers for everyday use,3450,Clearance Sale,offer/sale/discount
+P1514,Shirts 515,Shirts,clothing,Elegant silk design perfect for formal occasions,4112,No discount,fresh_arrivals
+P1515,Jeans 516,Jeans,clothing,Stretch denim for added comfort and flexibility,2673,Buy 1 Get 1,offer/sale/discount
+P1516,Ethnic Wear 517,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,4836,Flat 50% Off,offer/sale/discount
+P1517,Watches 518,Watches,accessories,Classic analog watch with a leather strap,1060,Clearance Sale,offer/sale/discount
+P1518,Formal Shoes 519,Formal Shoes,footwear,Durable synthetic material with a sleek finish,1685,No discount,fresh_arrivals
+P1519,Ethnic Wear 520,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,724,Clearance Sale,offer/sale/discount
+P1520,Sandals 521,Sandals,footwear,Stylish leather sandals for summer,4189,No discount,fresh_arrivals
+P1521,Sweaters 522,Sweaters,clothing,Warm wool knit for chilly days,1242,No discount,fresh_arrivals
+P1522,Jackets 523,Jackets,clothing,Water-resistant synthetic material for all weather,1143,No discount,fresh_arrivals
+P1523,Jeans 524,Jeans,clothing,Classic denim with a modern twist,1418,No discount,Limited Edition
+P1524,Sweaters 525,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,1726,Flat 50% Off,offer/sale/discount
+P1525,Watches 526,Watches,accessories,Modern digital watch with various features,4050,No discount,fresh_arrivals
+P1526,Sweaters 527,Sweaters,clothing,Warm wool knit for chilly days,1940,No discount,fresh_arrivals
+P1527,Hoodies 528,Hoodies,clothing,Cozy fleece interior for extra warmth,1927,Clearance Sale,offer/sale/discount
+P1528,Shorts 529,Shorts,clothing,Lightweight cotton shorts for hot days,3762,No discount,fresh_arrivals
+P1529,Jackets 530,Jackets,clothing,Genuine leather jacket with a rugged look,2302,No discount,fresh_arrivals
+P1530,Jackets 531,Jackets,clothing,Trendy denim jacket for casual outings,3074,No discount,fresh_arrivals
+P1531,T-Shirts 532,Tshirts,clothing,Durable polyester blend for active lifestyles,2028,No discount,fresh_arrivals
+P1532,Jeans 533,Jeans,clothing,Stretch denim for added comfort and flexibility,947,Buy 1 Get 1,offer/sale/discount
+P1533,T-Shirts 534,Tshirts,clothing,Durable polyester blend for active lifestyles,4944,Clearance Sale,offer/sale/discount
+P1534,Jeans 535,Jeans,clothing,Stretch denim for added comfort and flexibility,604,20% Off,offer/sale/discount
+P1535,Shorts 536,Shorts,clothing,Quick-drying polyester shorts for active wear,2107,Flat 50% Off,offer/sale/discount
+P1536,Casual Shoes 537,Casual Shoes,footwear,Comfortable leather loafers for everyday use,4008,No discount,fresh_arrivals
+P1537,Jeans 538,Jeans,clothing,Stretch denim for added comfort and flexibility,2010,No discount,fresh_arrivals
+P1538,Casual Shoes 539,Casual Shoes,footwear,Comfortable leather loafers for everyday use,3314,Buy 1 Get 1,offer/sale/discount
+P1539,T-Shirts 540,Tshirts,clothing,Breathable cotton fabric ideal for everyday wear,3128,Clearance Sale,offer/sale/discount
+P1540,Boxers 541,Boxers,clothing,Soft cotton boxers for all-day comfort,4165,20% Off,offer/sale/discount
+P1541,Hoodies 542,Hoodies,clothing,Stylish cotton hoodie with a relaxed fit,633,No discount,fresh_arrivals
+P1542,Jeans 543,Jeans,clothing,Stretch denim for added comfort and flexibility,1896,Buy 1 Get 1,offer/sale/discount
+P1543,Watches 544,Watches,accessories,Modern digital watch with various features,4083,No discount,fresh_arrivals
+P1544,Formal Shoes 545,Formal Shoes,footwear,Polished leather shoes for formal events,4595,No discount,fresh_arrivals
+P1545,Sunglasses 546,Sunglasses,accessories,UV protection sunglasses for sunny days,769,No discount,fresh_arrivals
+P1546,Ethnic Wear 547,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,3033,No discount,fresh_arrivals
+P1547,Shirts 548,Shirts,clothing,Crafted from soft cotton for ultimate comfort,591,No discount,fresh_arrivals
+P1548,Sunglasses 549,Sunglasses,accessories,Polarized sunglasses for clear vision,2179,No discount,fresh_arrivals
+P1549,Sweaters 550,Sweaters,clothing,Warm wool knit for chilly days,896,No discount,fresh_arrivals
+P1550,Ethnic Wear 551,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,4243,No discount,fresh_arrivals
+P1551,Formal Shoes 552,Formal Shoes,footwear,Durable synthetic material with a sleek finish,2617,No discount,fresh_arrivals
+P1552,T-Shirts 553,Tshirts,clothing,Durable polyester blend for active lifestyles,744,No discount,fresh_arrivals
+P1553,Watches 554,Watches,accessories,Modern digital watch with various features,3878,No discount,fresh_arrivals
+P1554,Watches 555,Watches,accessories,Modern digital watch with various features,1069,No discount,Limited Edition
+P1555,Shirts 556,Shirts,clothing,Crafted from soft cotton for ultimate comfort,1545,Buy 1 Get 1,offer/sale/discount
+P1556,Formal Shoes 557,Formal Shoes,footwear,Durable synthetic material with a sleek finish,4111,No discount,fresh_arrivals
+P1557,Belts 558,Belts,accessories,Elegant leather belt for formal wear,4941,No discount,fresh_arrivals
+P1558,T-Shirts 559,Tshirts,clothing,Breathable cotton fabric ideal for everyday wear,1767,No discount,fresh_arrivals
+P1559,Sweaters 560,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,4779,No discount,fresh_arrivals
+P1560,Jackets 561,Jackets,clothing,Trendy denim jacket for casual outings,1058,No discount,fresh_arrivals
+P1561,Hoodies 562,Hoodies,clothing,Cozy fleece interior for extra warmth,2401,No discount,fresh_arrivals
+P1562,Sweaters 563,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,3369,No discount,fresh_arrivals
+P1563,Shirts 564,Shirts,clothing,Made with premium linen for a luxurious feel,3134,Flat 50% Off,offer/sale/discount
+P1564,Belts 565,Belts,accessories,Elegant leather belt for formal wear,1699,No discount,fresh_arrivals
+P1565,Jackets 566,Jackets,clothing,Water-resistant synthetic material for all weather,3141,20% Off,offer/sale/discount
+P1566,Shorts 567,Shorts,clothing,Lightweight cotton shorts for hot days,1026,No discount,fresh_arrivals
+P1567,T-Shirts 568,Tshirts,clothing,Casual and comfortable blended material,2502,No discount,Limited Edition
+P1568,Casual Shoes 569,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,3834,Buy 1 Get 1,offer/sale/discount
+P1569,Ethnic Wear 570,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,1045,No discount,fresh_arrivals
+P1570,Boxers 571,Boxers,clothing,Blended material boxers with a snug fit,1613,No discount,fresh_arrivals
+P1571,Casual Shoes 572,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,3736,No discount,fresh_arrivals
+P1572,Formal Shoes 573,Formal Shoes,footwear,Durable synthetic material with a sleek finish,4883,20% Off,offer/sale/discount
+P1573,Formal Shoes 574,Formal Shoes,footwear,Durable synthetic material with a sleek finish,1610,Buy 1 Get 1,offer/sale/discount
+P1574,Jeans 575,Jeans,clothing,Stretch denim for added comfort and flexibility,3316,No discount,fresh_arrivals
+P1575,Belts 576,Belts,accessories,Versatile synthetic belt for casual outfits,3536,No discount,fresh_arrivals
+P1576,T-Shirts 577,Tshirts,clothing,Durable polyester blend for active lifestyles,4897,Flat 50% Off,offer/sale/discount
+P1577,Hoodies 578,Hoodies,clothing,Cozy fleece interior for extra warmth,2412,No discount,fresh_arrivals
+P1578,Shorts 579,Shorts,clothing,Lightweight cotton shorts for hot days,2258,No discount,Limited Edition
+P1579,Belts 580,Belts,accessories,Elegant leather belt for formal wear,767,Flat 50% Off,offer/sale/discount
+P1580,Jeans 581,Jeans,clothing,Classic denim with a modern twist,4252,No discount,fresh_arrivals
+P1581,Casual Shoes 582,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,1692,Clearance Sale,offer/sale/discount
+P1582,Shorts 583,Shorts,clothing,Lightweight cotton shorts for hot days,3638,Buy 1 Get 1,offer/sale/discount
+P1583,Formal Shoes 584,Formal Shoes,footwear,Durable synthetic material with a sleek finish,626,No discount,fresh_arrivals
+P1584,Watches 585,Watches,accessories,Classic analog watch with a leather strap,2986,Flat 50% Off,offer/sale/discount
+P1585,Watches 586,Watches,accessories,Classic analog watch with a leather strap,3423,No discount,fresh_arrivals
+P1586,Jackets 587,Jackets,clothing,Trendy denim jacket for casual outings,2817,Buy 1 Get 1,offer/sale/discount
+P1587,Belts 588,Belts,accessories,Elegant leather belt for formal wear,4512,No discount,fresh_arrivals
+P1588,Boxers 589,Boxers,clothing,Soft cotton boxers for all-day comfort,1773,20% Off,offer/sale/discount
+P1589,Ethnic Wear 590,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,2582,No discount,fresh_arrivals
+P1590,Watches 591,Watches,accessories,Modern digital watch with various features,753,No discount,fresh_arrivals
+P1591,Belts 592,Belts,accessories,Versatile synthetic belt for casual outfits,2270,Clearance Sale,offer/sale/discount
+P1592,Ethnic Wear 593,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,573,No discount,fresh_arrivals
+P1593,Sweaters 594,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,577,No discount,fresh_arrivals
+P1594,Ethnic Wear 595,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,2447,Clearance Sale,offer/sale/discount
+P1595,Belts 596,Belts,accessories,Elegant leather belt for formal wear,611,No discount,Limited Edition
+P1596,Shirts 597,Shirts,clothing,Made with premium linen for a luxurious feel,2301,Flat 50% Off,offer/sale/discount
+P1597,Shirts 598,Shirts,clothing,Made with premium linen for a luxurious feel,3769,No discount,Limited Edition
+P1598,Sandals 599,Sandals,footwear,Stylish leather sandals for summer,3879,No discount,fresh_arrivals
+P1599,Sweaters 600,Sweaters,clothing,Warm wool knit for chilly days,1931,No discount,fresh_arrivals
+P1600,Formal Shoes 601,Formal Shoes,footwear,Polished leather shoes for formal events,2071,No discount,fresh_arrivals
+P1601,Watches 602,Watches,accessories,Classic analog watch with a leather strap,1328,Clearance Sale,offer/sale/discount
+P1602,Casual Shoes 603,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,2890,Buy 1 Get 1,offer/sale/discount
+P1603,Jeans 604,Jeans,clothing,Stretch denim for added comfort and flexibility,3221,No discount,fresh_arrivals
+P1604,Sandals 605,Sandals,footwear,Comfortable synthetic sandals for casual wear,1843,Flat 50% Off,offer/sale/discount
+P1605,Boxers 606,Boxers,clothing,Blended material boxers with a snug fit,2317,20% Off,offer/sale/discount
+P1606,Boxers 607,Boxers,clothing,Blended material boxers with a snug fit,1302,Clearance Sale,offer/sale/discount
+P1607,Casual Shoes 608,Casual Shoes,footwear,Comfortable leather loafers for everyday use,4145,No discount,fresh_arrivals
+P1608,Casual Shoes 609,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,4216,No discount,fresh_arrivals
+P1609,T-Shirts 610,Tshirts,clothing,Breathable cotton fabric ideal for everyday wear,4470,No discount,Limited Edition
+P1610,Sunglasses 611,Sunglasses,accessories,UV protection sunglasses for sunny days,2850,Buy 1 Get 1,offer/sale/discount
+P1611,Belts 612,Belts,accessories,Versatile synthetic belt for casual outfits,4966,Clearance Sale,offer/sale/discount
+P1612,Belts 613,Belts,accessories,Versatile synthetic belt for casual outfits,3855,Clearance Sale,offer/sale/discount
+P1613,Casual Shoes 614,Casual Shoes,footwear,Comfortable leather loafers for everyday use,3751,No discount,fresh_arrivals
+P1614,Casual Shoes 615,Casual Shoes,footwear,Comfortable leather loafers for everyday use,3864,Buy 1 Get 1,offer/sale/discount
+P1615,Shirts 616,Shirts,clothing,Crafted from soft cotton for ultimate comfort,1127,No discount,Limited Edition
+P1616,Casual Shoes 617,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,2640,Clearance Sale,offer/sale/discount
+P1617,Hoodies 618,Hoodies,clothing,Stylish cotton hoodie with a relaxed fit,4144,No discount,fresh_arrivals
+P1618,Sandals 619,Sandals,footwear,Stylish leather sandals for summer,2960,Clearance Sale,offer/sale/discount
+P1619,Shorts 620,Shorts,clothing,Lightweight cotton shorts for hot days,2525,No discount,fresh_arrivals
+P1620,Sandals 621,Sandals,footwear,Comfortable synthetic sandals for casual wear,766,Clearance Sale,offer/sale/discount
+P1621,Boxers 622,Boxers,clothing,Soft cotton boxers for all-day comfort,1268,Clearance Sale,offer/sale/discount
+P1622,Casual Shoes 623,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,2022,No discount,fresh_arrivals
+P1623,Watches 624,Watches,accessories,Classic analog watch with a leather strap,1698,Clearance Sale,offer/sale/discount
+P1624,Boxers 625,Boxers,clothing,Blended material boxers with a snug fit,2938,Flat 50% Off,offer/sale/discount
+P1625,Sandals 626,Sandals,footwear,Stylish leather sandals for summer,1793,No discount,Limited Edition
+P1626,Hoodies 627,Hoodies,clothing,Cozy fleece interior for extra warmth,3287,No discount,fresh_arrivals
+P1627,Casual Shoes 628,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,1344,Clearance Sale,offer/sale/discount
+P1628,Watches 629,Watches,accessories,Modern digital watch with various features,3664,No discount,fresh_arrivals
+P1629,Hoodies 630,Hoodies,clothing,Stylish cotton hoodie with a relaxed fit,2151,Flat 50% Off,offer/sale/discount
+P1630,Casual Shoes 631,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,1407,Flat 50% Off,offer/sale/discount
+P1631,Hoodies 632,Hoodies,clothing,Cozy fleece interior for extra warmth,662,Buy 1 Get 1,offer/sale/discount
+P1632,Shorts 633,Shorts,clothing,Quick-drying polyester shorts for active wear,4527,Flat 50% Off,offer/sale/discount
+P1633,Watches 634,Watches,accessories,Modern digital watch with various features,996,20% Off,offer/sale/discount
+P1634,Sunglasses 635,Sunglasses,accessories,Polarized sunglasses for clear vision,4603,No discount,fresh_arrivals
+P1635,Shirts 636,Shirts,clothing,Elegant silk design perfect for formal occasions,3611,No discount,Limited Edition
+P1636,Ethnic Wear 637,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,659,No discount,fresh_arrivals
+P1637,Casual Shoes 638,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,4202,No discount,fresh_arrivals
+P1638,Jeans 639,Jeans,clothing,Stretch denim for added comfort and flexibility,4693,No discount,fresh_arrivals
+P1639,Ethnic Wear 640,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,4444,No discount,fresh_arrivals
+P1640,Hoodies 641,Hoodies,clothing,Cozy fleece interior for extra warmth,4681,No discount,fresh_arrivals
+P1641,Belts 642,Belts,accessories,Elegant leather belt for formal wear,3973,20% Off,offer/sale/discount
+P1642,Shorts 643,Shorts,clothing,Lightweight cotton shorts for hot days,2174,No discount,fresh_arrivals
+P1643,Sweaters 644,Sweaters,clothing,Warm wool knit for chilly days,3841,No discount,fresh_arrivals
+P1644,T-Shirts 645,Tshirts,clothing,Breathable cotton fabric ideal for everyday wear,4921,No discount,fresh_arrivals
+P1645,Sweaters 646,Sweaters,clothing,Warm wool knit for chilly days,3255,Flat 50% Off,offer/sale/discount
+P1646,Sunglasses 647,Sunglasses,accessories,Polarized sunglasses for clear vision,620,Buy 1 Get 1,offer/sale/discount
+P1647,Boxers 648,Boxers,clothing,Soft cotton boxers for all-day comfort,2153,Buy 1 Get 1,offer/sale/discount
+P1648,Sandals 649,Sandals,footwear,Stylish leather sandals for summer,2382,No discount,fresh_arrivals
+P1649,T-Shirts 650,Tshirts,clothing,Breathable cotton fabric ideal for everyday wear,4661,Buy 1 Get 1,offer/sale/discount
+P1650,T-Shirts 651,Tshirts,clothing,Casual and comfortable blended material,2754,No discount,fresh_arrivals
+P1651,Jackets 652,Jackets,clothing,Genuine leather jacket with a rugged look,3540,Flat 50% Off,offer/sale/discount
+P1652,Shirts 653,Shirts,clothing,Made with premium linen for a luxurious feel,2921,No discount,fresh_arrivals
+P1653,Watches 654,Watches,accessories,Modern digital watch with various features,1798,Flat 50% Off,offer/sale/discount
+P1654,Belts 655,Belts,accessories,Elegant leather belt for formal wear,2320,No discount,fresh_arrivals
+P1655,Boxers 656,Boxers,clothing,Soft cotton boxers for all-day comfort,4900,No discount,fresh_arrivals
+P1656,Jeans 657,Jeans,clothing,Classic denim with a modern twist,4932,20% Off,offer/sale/discount
+P1657,Jackets 658,Jackets,clothing,Water-resistant synthetic material for all weather,1683,20% Off,offer/sale/discount
+P1658,Casual Shoes 659,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,1157,Buy 1 Get 1,offer/sale/discount
+P1659,Hoodies 660,Hoodies,clothing,Stylish cotton hoodie with a relaxed fit,3406,No discount,fresh_arrivals
+P1660,Ethnic Wear 661,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,3834,Clearance Sale,offer/sale/discount
+P1661,Sandals 662,Sandals,footwear,Comfortable synthetic sandals for casual wear,4855,Flat 50% Off,offer/sale/discount
+P1662,Casual Shoes 663,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,3943,No discount,fresh_arrivals
+P1663,Watches 664,Watches,accessories,Modern digital watch with various features,4367,No discount,Limited Edition
+P1664,Sunglasses 665,Sunglasses,accessories,Polarized sunglasses for clear vision,2244,No discount,fresh_arrivals
+P1665,Sandals 666,Sandals,footwear,Comfortable synthetic sandals for casual wear,4473,No discount,fresh_arrivals
+P1666,Shorts 667,Shorts,clothing,Lightweight cotton shorts for hot days,1962,Clearance Sale,offer/sale/discount
+P1667,Hoodies 668,Hoodies,clothing,Cozy fleece interior for extra warmth,924,No discount,fresh_arrivals
+P1668,Sweaters 669,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,1204,No discount,fresh_arrivals
+P1669,Formal Shoes 670,Formal Shoes,footwear,Durable synthetic material with a sleek finish,4666,Clearance Sale,offer/sale/discount
+P1670,T-Shirts 671,Tshirts,clothing,Casual and comfortable blended material,3215,No discount,fresh_arrivals
+P1671,Sunglasses 672,Sunglasses,accessories,UV protection sunglasses for sunny days,1094,Flat 50% Off,offer/sale/discount
+P1672,Boxers 673,Boxers,clothing,Soft cotton boxers for all-day comfort,686,No discount,fresh_arrivals
+P1673,Sunglasses 674,Sunglasses,accessories,Polarized sunglasses for clear vision,4091,No discount,fresh_arrivals
+P1674,Shorts 675,Shorts,clothing,Quick-drying polyester shorts for active wear,2638,No discount,fresh_arrivals
+P1675,Boxers 676,Boxers,clothing,Blended material boxers with a snug fit,4438,Buy 1 Get 1,offer/sale/discount
+P1676,T-Shirts 677,Tshirts,clothing,Breathable cotton fabric ideal for everyday wear,2737,Clearance Sale,offer/sale/discount
+P1677,Shirts 678,Shirts,clothing,Made with premium linen for a luxurious feel,886,No discount,fresh_arrivals
+P1678,Watches 679,Watches,accessories,Classic analog watch with a leather strap,4804,No discount,Limited Edition
+P1679,Sandals 680,Sandals,footwear,Comfortable synthetic sandals for casual wear,2251,No discount,fresh_arrivals
+P1680,Belts 681,Belts,accessories,Elegant leather belt for formal wear,3501,Buy 1 Get 1,offer/sale/discount
+P1681,Jeans 682,Jeans,clothing,Classic denim with a modern twist,2366,No discount,fresh_arrivals
+P1682,Casual Shoes 683,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,4307,20% Off,offer/sale/discount
+P1683,T-Shirts 684,Tshirts,clothing,Breathable cotton fabric ideal for everyday wear,1108,No discount,Limited Edition
+P1684,Sunglasses 685,Sunglasses,accessories,Polarized sunglasses for clear vision,1988,Flat 50% Off,offer/sale/discount
+P1685,Belts 686,Belts,accessories,Elegant leather belt for formal wear,1959,20% Off,offer/sale/discount
+P1686,Jackets 687,Jackets,clothing,Water-resistant synthetic material for all weather,1929,No discount,fresh_arrivals
+P1687,Formal Shoes 688,Formal Shoes,footwear,Polished leather shoes for formal events,2839,No discount,fresh_arrivals
+P1688,Casual Shoes 689,Casual Shoes,footwear,Comfortable leather loafers for everyday use,3144,No discount,fresh_arrivals
+P1689,Casual Shoes 690,Casual Shoes,footwear,Comfortable leather loafers for everyday use,2174,No discount,fresh_arrivals
+P1690,Ethnic Wear 691,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,625,No discount,fresh_arrivals
+P1691,Belts 692,Belts,accessories,Elegant leather belt for formal wear,2998,No discount,Limited Edition
+P1692,Shorts 693,Shorts,clothing,Lightweight cotton shorts for hot days,3667,Clearance Sale,offer/sale/discount
+P1693,Jackets 694,Jackets,clothing,Trendy denim jacket for casual outings,3336,No discount,fresh_arrivals
+P1694,Boxers 695,Boxers,clothing,Blended material boxers with a snug fit,836,Clearance Sale,offer/sale/discount
+P1695,Ethnic Wear 696,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,2408,No discount,fresh_arrivals
+P1696,Boxers 697,Boxers,clothing,Blended material boxers with a snug fit,609,No discount,fresh_arrivals
+P1697,T-Shirts 698,Tshirts,clothing,Durable polyester blend for active lifestyles,4984,No discount,fresh_arrivals
+P1698,Hoodies 699,Hoodies,clothing,Stylish cotton hoodie with a relaxed fit,791,No discount,Limited Edition
+P1699,Boxers 700,Boxers,clothing,Blended material boxers with a snug fit,1045,No discount,fresh_arrivals
+P1700,Shirts 701,Shirts,clothing,Crafted from soft cotton for ultimate comfort,4982,Flat 50% Off,offer/sale/discount
+P1701,Sweaters 702,Sweaters,clothing,Warm wool knit for chilly days,2531,No discount,fresh_arrivals
+P1702,Formal Shoes 703,Formal Shoes,footwear,Durable synthetic material with a sleek finish,4702,20% Off,offer/sale/discount
+P1703,Ethnic Wear 704,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,748,No discount,fresh_arrivals
+P1704,Formal Shoes 705,Formal Shoes,footwear,Durable synthetic material with a sleek finish,4807,20% Off,offer/sale/discount
+P1705,Sandals 706,Sandals,footwear,Stylish leather sandals for summer,3341,Flat 50% Off,offer/sale/discount
+P1706,Formal Shoes 707,Formal Shoes,footwear,Polished leather shoes for formal events,1589,Flat 50% Off,offer/sale/discount
+P1707,Boxers 708,Boxers,clothing,Blended material boxers with a snug fit,2736,No discount,fresh_arrivals
+P1708,Sweaters 709,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,2201,Buy 1 Get 1,offer/sale/discount
+P1709,Shorts 710,Shorts,clothing,Lightweight cotton shorts for hot days,4248,20% Off,offer/sale/discount
+P1710,Shorts 711,Shorts,clothing,Quick-drying polyester shorts for active wear,3360,20% Off,offer/sale/discount
+P1711,T-Shirts 712,Tshirts,clothing,Durable polyester blend for active lifestyles,1132,No discount,fresh_arrivals
+P1712,Boxers 713,Boxers,clothing,Soft cotton boxers for all-day comfort,541,No discount,fresh_arrivals
+P1713,Shirts 714,Shirts,clothing,Made with premium linen for a luxurious feel,2077,No discount,fresh_arrivals
+P1714,Hoodies 715,Hoodies,clothing,Stylish cotton hoodie with a relaxed fit,4857,Flat 50% Off,offer/sale/discount
+P1715,Casual Shoes 716,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,2199,No discount,Limited Edition
+P1716,Boxers 717,Boxers,clothing,Soft cotton boxers for all-day comfort,1671,Flat 50% Off,offer/sale/discount
+P1717,Belts 718,Belts,accessories,Elegant leather belt for formal wear,708,No discount,fresh_arrivals
+P1718,Shirts 719,Shirts,clothing,Elegant silk design perfect for formal occasions,3518,Flat 50% Off,offer/sale/discount
+P1719,Ethnic Wear 720,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,3222,No discount,fresh_arrivals
+P1720,Ethnic Wear 721,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,4906,No discount,fresh_arrivals
+P1721,Watches 722,Watches,accessories,Classic analog watch with a leather strap,4442,Flat 50% Off,offer/sale/discount
+P1722,Shirts 723,Shirts,clothing,Made with premium linen for a luxurious feel,2283,No discount,fresh_arrivals
+P1723,Jackets 724,Jackets,clothing,Water-resistant synthetic material for all weather,4228,Clearance Sale,offer/sale/discount
+P1724,Belts 725,Belts,accessories,Versatile synthetic belt for casual outfits,1642,No discount,fresh_arrivals
+P1725,Ethnic Wear 726,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,3449,Flat 50% Off,offer/sale/discount
+P1726,Sunglasses 727,Sunglasses,accessories,UV protection sunglasses for sunny days,1575,No discount,fresh_arrivals
+P1727,Sandals 728,Sandals,footwear,Comfortable synthetic sandals for casual wear,2440,No discount,fresh_arrivals
+P1728,Sandals 729,Sandals,footwear,Comfortable synthetic sandals for casual wear,1071,No discount,Limited Edition
+P1729,Jackets 730,Jackets,clothing,Water-resistant synthetic material for all weather,3248,20% Off,offer/sale/discount
+P1730,Shorts 731,Shorts,clothing,Lightweight cotton shorts for hot days,4467,No discount,fresh_arrivals
+P1731,Boxers 732,Boxers,clothing,Blended material boxers with a snug fit,2400,No discount,fresh_arrivals
+P1732,Sandals 733,Sandals,footwear,Stylish leather sandals for summer,2949,Buy 1 Get 1,offer/sale/discount
+P1733,Belts 734,Belts,accessories,Elegant leather belt for formal wear,3370,No discount,Limited Edition
+P1734,Boxers 735,Boxers,clothing,Soft cotton boxers for all-day comfort,4885,Flat 50% Off,offer/sale/discount
+P1735,Boxers 736,Boxers,clothing,Soft cotton boxers for all-day comfort,3202,20% Off,offer/sale/discount
+P1736,Shirts 737,Shirts,clothing,Made with premium linen for a luxurious feel,2899,No discount,fresh_arrivals
+P1737,Sunglasses 738,Sunglasses,accessories,UV protection sunglasses for sunny days,2620,No discount,fresh_arrivals
+P1738,Shorts 739,Shorts,clothing,Lightweight cotton shorts for hot days,3932,No discount,Limited Edition
+P1739,Hoodies 740,Hoodies,clothing,Stylish cotton hoodie with a relaxed fit,1871,No discount,fresh_arrivals
+P1740,Casual Shoes 741,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,4813,20% Off,offer/sale/discount
+P1741,Shorts 742,Shorts,clothing,Lightweight cotton shorts for hot days,3915,Clearance Sale,offer/sale/discount
+P1742,Sandals 743,Sandals,footwear,Comfortable synthetic sandals for casual wear,1272,No discount,fresh_arrivals
+P1743,Sweaters 744,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,2282,Buy 1 Get 1,offer/sale/discount
+P1744,Watches 745,Watches,accessories,Classic analog watch with a leather strap,3181,Buy 1 Get 1,offer/sale/discount
+P1745,Watches 746,Watches,accessories,Modern digital watch with various features,1831,No discount,fresh_arrivals
+P1746,Sandals 747,Sandals,footwear,Comfortable synthetic sandals for casual wear,4462,Flat 50% Off,offer/sale/discount
+P1747,Ethnic Wear 748,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,1696,Clearance Sale,offer/sale/discount
+P1748,Boxers 749,Boxers,clothing,Soft cotton boxers for all-day comfort,4886,Flat 50% Off,offer/sale/discount
+P1749,Hoodies 750,Hoodies,clothing,Stylish cotton hoodie with a relaxed fit,836,No discount,fresh_arrivals
+P1750,Watches 751,Watches,accessories,Classic analog watch with a leather strap,3946,20% Off,offer/sale/discount
+P1751,Jeans 752,Jeans,clothing,Stretch denim for added comfort and flexibility,4579,No discount,fresh_arrivals
+P1752,Belts 753,Belts,accessories,Versatile synthetic belt for casual outfits,850,Clearance Sale,offer/sale/discount
+P1753,Shirts 754,Shirts,clothing,Elegant silk design perfect for formal occasions,4081,No discount,fresh_arrivals
+P1754,Shorts 755,Shorts,clothing,Lightweight cotton shorts for hot days,4671,Buy 1 Get 1,offer/sale/discount
+P1755,Ethnic Wear 756,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,1297,20% Off,offer/sale/discount
+P1756,Ethnic Wear 757,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,919,Clearance Sale,offer/sale/discount
+P1757,Sunglasses 758,Sunglasses,accessories,Polarized sunglasses for clear vision,2707,Flat 50% Off,offer/sale/discount
+P1758,Sweaters 759,Sweaters,clothing,Warm wool knit for chilly days,3848,Buy 1 Get 1,offer/sale/discount
+P1759,Sandals 760,Sandals,footwear,Stylish leather sandals for summer,3356,No discount,fresh_arrivals
+P1760,Shorts 761,Shorts,clothing,Quick-drying polyester shorts for active wear,1789,No discount,fresh_arrivals
+P1761,Watches 762,Watches,accessories,Classic analog watch with a leather strap,3205,20% Off,offer/sale/discount
+P1762,Watches 763,Watches,accessories,Classic analog watch with a leather strap,1707,Clearance Sale,offer/sale/discount
+P1763,Formal Shoes 764,Formal Shoes,footwear,Polished leather shoes for formal events,3168,Flat 50% Off,offer/sale/discount
+P1764,Shirts 765,Shirts,clothing,Elegant silk design perfect for formal occasions,3432,No discount,fresh_arrivals
+P1765,Shorts 766,Shorts,clothing,Lightweight cotton shorts for hot days,2559,Clearance Sale,offer/sale/discount
+P1766,Sweaters 767,Sweaters,clothing,Warm wool knit for chilly days,3385,No discount,fresh_arrivals
+P1767,Jackets 768,Jackets,clothing,Water-resistant synthetic material for all weather,3668,Flat 50% Off,offer/sale/discount
+P1768,Watches 769,Watches,accessories,Classic analog watch with a leather strap,2614,Buy 1 Get 1,offer/sale/discount
+P1769,Formal Shoes 770,Formal Shoes,footwear,Polished leather shoes for formal events,4171,Flat 50% Off,offer/sale/discount
+P1770,Boxers 771,Boxers,clothing,Soft cotton boxers for all-day comfort,1953,Buy 1 Get 1,offer/sale/discount
+P1771,Ethnic Wear 772,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,3031,No discount,fresh_arrivals
+P1772,Ethnic Wear 773,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,2717,No discount,fresh_arrivals
+P1773,Casual Shoes 774,Casual Shoes,footwear,Comfortable leather loafers for everyday use,2178,No discount,fresh_arrivals
+P1774,Jeans 775,Jeans,clothing,Classic denim with a modern twist,853,Clearance Sale,offer/sale/discount
+P1775,Casual Shoes 776,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,4712,Buy 1 Get 1,offer/sale/discount
+P1776,Formal Shoes 777,Formal Shoes,footwear,Polished leather shoes for formal events,2153,Buy 1 Get 1,offer/sale/discount
+P1777,Ethnic Wear 778,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,3300,No discount,fresh_arrivals
+P1778,Sunglasses 779,Sunglasses,accessories,Polarized sunglasses for clear vision,3622,No discount,fresh_arrivals
+P1779,Shirts 780,Shirts,clothing,Crafted from soft cotton for ultimate comfort,3164,Flat 50% Off,offer/sale/discount
+P1780,Shorts 781,Shorts,clothing,Quick-drying polyester shorts for active wear,2162,Flat 50% Off,offer/sale/discount
+P1781,Jackets 782,Jackets,clothing,Genuine leather jacket with a rugged look,2676,No discount,fresh_arrivals
+P1782,Formal Shoes 783,Formal Shoes,footwear,Durable synthetic material with a sleek finish,1590,Buy 1 Get 1,offer/sale/discount
+P1783,Watches 784,Watches,accessories,Classic analog watch with a leather strap,3544,No discount,fresh_arrivals
+P1784,Watches 785,Watches,accessories,Classic analog watch with a leather strap,1006,20% Off,offer/sale/discount
+P1785,Shirts 786,Shirts,clothing,Elegant silk design perfect for formal occasions,2093,No discount,fresh_arrivals
+P1786,Shorts 787,Shorts,clothing,Quick-drying polyester shorts for active wear,2067,No discount,fresh_arrivals
+P1787,Formal Shoes 788,Formal Shoes,footwear,Polished leather shoes for formal events,4152,Clearance Sale,offer/sale/discount
+P1788,Jeans 789,Jeans,clothing,Classic denim with a modern twist,3618,No discount,fresh_arrivals
+P1789,Sandals 790,Sandals,footwear,Comfortable synthetic sandals for casual wear,4235,Clearance Sale,offer/sale/discount
+P1790,Shorts 791,Shorts,clothing,Lightweight cotton shorts for hot days,781,Buy 1 Get 1,offer/sale/discount
+P1791,Belts 792,Belts,accessories,Elegant leather belt for formal wear,4445,No discount,fresh_arrivals
+P1792,Sweaters 793,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,1457,No discount,fresh_arrivals
+P1793,Boxers 794,Boxers,clothing,Blended material boxers with a snug fit,860,No discount,fresh_arrivals
+P1794,Sunglasses 795,Sunglasses,accessories,UV protection sunglasses for sunny days,3802,No discount,fresh_arrivals
+P1795,Watches 796,Watches,accessories,Modern digital watch with various features,2314,Buy 1 Get 1,offer/sale/discount
+P1796,Sweaters 797,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,3170,Clearance Sale,offer/sale/discount
+P1797,Formal Shoes 798,Formal Shoes,footwear,Durable synthetic material with a sleek finish,1747,No discount,fresh_arrivals
+P1798,Shorts 799,Shorts,clothing,Lightweight cotton shorts for hot days,1736,Buy 1 Get 1,offer/sale/discount
+P1799,Sandals 800,Sandals,footwear,Stylish leather sandals for summer,4684,No discount,Limited Edition
+P1800,Belts 801,Belts,accessories,Versatile synthetic belt for casual outfits,3465,No discount,fresh_arrivals
+P1801,Casual Shoes 802,Casual Shoes,footwear,Comfortable leather loafers for everyday use,1579,No discount,fresh_arrivals
+P1802,T-Shirts 803,Tshirts,clothing,Breathable cotton fabric ideal for everyday wear,1245,Clearance Sale,offer/sale/discount
+P1803,Belts 804,Belts,accessories,Elegant leather belt for formal wear,4176,Clearance Sale,offer/sale/discount
+P1804,Sandals 805,Sandals,footwear,Comfortable synthetic sandals for casual wear,1290,20% Off,offer/sale/discount
+P1805,Jeans 806,Jeans,clothing,Stretch denim for added comfort and flexibility,3329,No discount,fresh_arrivals
+P1806,Formal Shoes 807,Formal Shoes,footwear,Durable synthetic material with a sleek finish,4825,No discount,fresh_arrivals
+P1807,Watches 808,Watches,accessories,Modern digital watch with various features,3810,20% Off,offer/sale/discount
+P1808,Belts 809,Belts,accessories,Elegant leather belt for formal wear,609,No discount,fresh_arrivals
+P1809,Sandals 810,Sandals,footwear,Comfortable synthetic sandals for casual wear,3352,No discount,fresh_arrivals
+P1810,Sweaters 811,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,3561,No discount,Limited Edition
+P1811,Jackets 812,Jackets,clothing,Genuine leather jacket with a rugged look,1326,No discount,fresh_arrivals
+P1812,Jeans 813,Jeans,clothing,Stretch denim for added comfort and flexibility,755,Buy 1 Get 1,offer/sale/discount
+P1813,Shorts 814,Shorts,clothing,Lightweight cotton shorts for hot days,2089,Flat 50% Off,offer/sale/discount
+P1814,Hoodies 815,Hoodies,clothing,Stylish cotton hoodie with a relaxed fit,4943,No discount,fresh_arrivals
+P1815,Jeans 816,Jeans,clothing,Classic denim with a modern twist,4619,No discount,fresh_arrivals
+P1816,Ethnic Wear 817,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,1427,No discount,fresh_arrivals
+P1817,T-Shirts 818,Tshirts,clothing,Breathable cotton fabric ideal for everyday wear,3941,No discount,fresh_arrivals
+P1818,Formal Shoes 819,Formal Shoes,footwear,Polished leather shoes for formal events,981,Flat 50% Off,offer/sale/discount
+P1819,Shirts 820,Shirts,clothing,Elegant silk design perfect for formal occasions,1055,No discount,fresh_arrivals
+P1820,Boxers 821,Boxers,clothing,Blended material boxers with a snug fit,4783,No discount,fresh_arrivals
+P1821,Watches 822,Watches,accessories,Modern digital watch with various features,745,20% Off,offer/sale/discount
+P1822,T-Shirts 823,Tshirts,clothing,Breathable cotton fabric ideal for everyday wear,785,No discount,fresh_arrivals
+P1823,Formal Shoes 824,Formal Shoes,footwear,Polished leather shoes for formal events,4190,No discount,fresh_arrivals
+P1824,Sweaters 825,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,1481,Buy 1 Get 1,offer/sale/discount
+P1825,Sandals 826,Sandals,footwear,Comfortable synthetic sandals for casual wear,1043,Flat 50% Off,offer/sale/discount
+P1826,Watches 827,Watches,accessories,Classic analog watch with a leather strap,930,No discount,fresh_arrivals
+P1827,Shirts 828,Shirts,clothing,Crafted from soft cotton for ultimate comfort,3505,Buy 1 Get 1,offer/sale/discount
+P1828,Sunglasses 829,Sunglasses,accessories,Polarized sunglasses for clear vision,2789,Clearance Sale,offer/sale/discount
+P1829,Jackets 830,Jackets,clothing,Water-resistant synthetic material for all weather,4538,No discount,fresh_arrivals
+P1830,Shirts 831,Shirts,clothing,Elegant silk design perfect for formal occasions,1377,No discount,fresh_arrivals
+P1831,Jeans 832,Jeans,clothing,Stretch denim for added comfort and flexibility,1547,No discount,fresh_arrivals
+P1832,Shirts 833,Shirts,clothing,Elegant silk design perfect for formal occasions,3952,No discount,fresh_arrivals
+P1833,Sweaters 834,Sweaters,clothing,Warm wool knit for chilly days,2744,20% Off,offer/sale/discount
+P1834,Shirts 835,Shirts,clothing,Elegant silk design perfect for formal occasions,2961,No discount,fresh_arrivals
+P1835,Belts 836,Belts,accessories,Versatile synthetic belt for casual outfits,4327,No discount,fresh_arrivals
+P1836,Sweaters 837,Sweaters,clothing,Warm wool knit for chilly days,3392,No discount,Limited Edition
+P1837,Boxers 838,Boxers,clothing,Soft cotton boxers for all-day comfort,2729,Buy 1 Get 1,offer/sale/discount
+P1838,Jeans 839,Jeans,clothing,Classic denim with a modern twist,3162,No discount,fresh_arrivals
+P1839,Sunglasses 840,Sunglasses,accessories,UV protection sunglasses for sunny days,1059,Clearance Sale,offer/sale/discount
+P1840,T-Shirts 841,Tshirts,clothing,Casual and comfortable blended material,1687,Flat 50% Off,offer/sale/discount
+P1841,Boxers 842,Boxers,clothing,Blended material boxers with a snug fit,2605,No discount,fresh_arrivals
+P1842,Shirts 843,Shirts,clothing,Made with premium linen for a luxurious feel,3268,No discount,fresh_arrivals
+P1843,Hoodies 844,Hoodies,clothing,Cozy fleece interior for extra warmth,2782,20% Off,offer/sale/discount
+P1844,T-Shirts 845,Tshirts,clothing,Durable polyester blend for active lifestyles,2526,No discount,Limited Edition
+P1845,Formal Shoes 846,Formal Shoes,footwear,Durable synthetic material with a sleek finish,557,No discount,fresh_arrivals
+P1846,Casual Shoes 847,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,3192,Flat 50% Off,offer/sale/discount
+P1847,Jeans 848,Jeans,clothing,Stretch denim for added comfort and flexibility,1919,No discount,fresh_arrivals
+P1848,Belts 849,Belts,accessories,Elegant leather belt for formal wear,4959,Flat 50% Off,offer/sale/discount
+P1849,Shirts 850,Shirts,clothing,Elegant silk design perfect for formal occasions,1309,No discount,fresh_arrivals
+P1850,Formal Shoes 851,Formal Shoes,footwear,Polished leather shoes for formal events,2283,No discount,fresh_arrivals
+P1851,Casual Shoes 852,Casual Shoes,footwear,Comfortable leather loafers for everyday use,4385,No discount,fresh_arrivals
+P1852,Jeans 853,Jeans,clothing,Stretch denim for added comfort and flexibility,2576,20% Off,offer/sale/discount
+P1853,Sunglasses 854,Sunglasses,accessories,UV protection sunglasses for sunny days,4968,Buy 1 Get 1,offer/sale/discount
+P1854,T-Shirts 855,Tshirts,clothing,Breathable cotton fabric ideal for everyday wear,4073,No discount,fresh_arrivals
+P1855,Sunglasses 856,Sunglasses,accessories,Polarized sunglasses for clear vision,3876,No discount,fresh_arrivals
+P1856,Belts 857,Belts,accessories,Versatile synthetic belt for casual outfits,1909,Flat 50% Off,offer/sale/discount
+P1857,Jeans 858,Jeans,clothing,Classic denim with a modern twist,3400,No discount,fresh_arrivals
+P1858,Hoodies 859,Hoodies,clothing,Stylish cotton hoodie with a relaxed fit,4291,Clearance Sale,offer/sale/discount
+P1859,Shorts 860,Shorts,clothing,Lightweight cotton shorts for hot days,2201,No discount,fresh_arrivals
+P1860,Ethnic Wear 861,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,2422,No discount,fresh_arrivals
+P1861,Shirts 862,Shirts,clothing,Crafted from soft cotton for ultimate comfort,4358,No discount,Limited Edition
+P1862,Shirts 863,Shirts,clothing,Elegant silk design perfect for formal occasions,3375,Clearance Sale,offer/sale/discount
+P1863,Jeans 864,Jeans,clothing,Classic denim with a modern twist,1279,No discount,Limited Edition
+P1864,Jackets 865,Jackets,clothing,Trendy denim jacket for casual outings,1835,No discount,Limited Edition
+P1865,Shirts 866,Shirts,clothing,Crafted from soft cotton for ultimate comfort,2200,No discount,fresh_arrivals
+P1866,Sunglasses 867,Sunglasses,accessories,Polarized sunglasses for clear vision,3600,No discount,Limited Edition
+P1867,Watches 868,Watches,accessories,Classic analog watch with a leather strap,4384,No discount,fresh_arrivals
+P1868,Watches 869,Watches,accessories,Classic analog watch with a leather strap,3526,No discount,fresh_arrivals
+P1869,Watches 870,Watches,accessories,Classic analog watch with a leather strap,745,Flat 50% Off,offer/sale/discount
+P1870,Shirts 871,Shirts,clothing,Made with premium linen for a luxurious feel,1773,No discount,fresh_arrivals
+P1871,T-Shirts 872,Tshirts,clothing,Casual and comfortable blended material,2562,No discount,fresh_arrivals
+P1872,Belts 873,Belts,accessories,Versatile synthetic belt for casual outfits,2993,Flat 50% Off,offer/sale/discount
+P1873,T-Shirts 874,Tshirts,clothing,Casual and comfortable blended material,2460,No discount,fresh_arrivals
+P1874,Shorts 875,Shorts,clothing,Lightweight cotton shorts for hot days,4350,No discount,Limited Edition
+P1875,Sweaters 876,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,1439,No discount,fresh_arrivals
+P1876,Jackets 877,Jackets,clothing,Genuine leather jacket with a rugged look,2433,No discount,fresh_arrivals
+P1877,Jackets 878,Jackets,clothing,Genuine leather jacket with a rugged look,2483,No discount,Limited Edition
+P1878,Shirts 879,Shirts,clothing,Elegant silk design perfect for formal occasions,1119,Clearance Sale,offer/sale/discount
+P1879,Boxers 880,Boxers,clothing,Blended material boxers with a snug fit,3398,No discount,fresh_arrivals
+P1880,Hoodies 881,Hoodies,clothing,Cozy fleece interior for extra warmth,3454,20% Off,offer/sale/discount
+P1881,Sweaters 882,Sweaters,clothing,Warm wool knit for chilly days,2833,No discount,fresh_arrivals
+P1882,Boxers 883,Boxers,clothing,Soft cotton boxers for all-day comfort,3177,20% Off,offer/sale/discount
+P1883,Boxers 884,Boxers,clothing,Soft cotton boxers for all-day comfort,1754,20% Off,offer/sale/discount
+P1884,Boxers 885,Boxers,clothing,Soft cotton boxers for all-day comfort,2589,Buy 1 Get 1,offer/sale/discount
+P1885,Ethnic Wear 886,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,547,20% Off,offer/sale/discount
+P1886,Shorts 887,Shorts,clothing,Lightweight cotton shorts for hot days,3057,No discount,fresh_arrivals
+P1887,T-Shirts 888,Tshirts,clothing,Casual and comfortable blended material,3270,Clearance Sale,offer/sale/discount
+P1888,Watches 889,Watches,accessories,Modern digital watch with various features,3707,No discount,fresh_arrivals
+P1889,Boxers 890,Boxers,clothing,Soft cotton boxers for all-day comfort,1007,No discount,fresh_arrivals
+P1890,Boxers 891,Boxers,clothing,Blended material boxers with a snug fit,4830,Clearance Sale,offer/sale/discount
+P1891,Ethnic Wear 892,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,1944,No discount,Limited Edition
+P1892,Sweaters 893,Sweaters,clothing,Warm wool knit for chilly days,1497,Clearance Sale,offer/sale/discount
+P1893,Watches 894,Watches,accessories,Modern digital watch with various features,2994,Buy 1 Get 1,offer/sale/discount
+P1894,Ethnic Wear 895,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,4334,No discount,fresh_arrivals
+P1895,Formal Shoes 896,Formal Shoes,footwear,Durable synthetic material with a sleek finish,3746,No discount,fresh_arrivals
+P1896,Sunglasses 897,Sunglasses,accessories,UV protection sunglasses for sunny days,502,Flat 50% Off,offer/sale/discount
+P1897,Boxers 898,Boxers,clothing,Blended material boxers with a snug fit,1575,20% Off,offer/sale/discount
+P1898,Jackets 899,Jackets,clothing,Trendy denim jacket for casual outings,3348,No discount,fresh_arrivals
+P1899,Hoodies 900,Hoodies,clothing,Cozy fleece interior for extra warmth,3953,No discount,Limited Edition
+P1900,Shorts 901,Shorts,clothing,Lightweight cotton shorts for hot days,2832,Flat 50% Off,offer/sale/discount
+P1901,T-Shirts 902,Tshirts,clothing,Durable polyester blend for active lifestyles,4769,No discount,fresh_arrivals
+P1902,Sweaters 903,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,1903,Buy 1 Get 1,offer/sale/discount
+P1903,Casual Shoes 904,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,1295,No discount,fresh_arrivals
+P1904,Sweaters 905,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,1677,20% Off,offer/sale/discount
+P1905,Jeans 906,Jeans,clothing,Stretch denim for added comfort and flexibility,3928,No discount,fresh_arrivals
+P1906,Boxers 907,Boxers,clothing,Soft cotton boxers for all-day comfort,1607,No discount,Limited Edition
+P1907,Sweaters 908,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,548,No discount,fresh_arrivals
+P1908,Jackets 909,Jackets,clothing,Trendy denim jacket for casual outings,1702,No discount,fresh_arrivals
+P1909,Casual Shoes 910,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,3667,No discount,fresh_arrivals
+P1910,Jackets 911,Jackets,clothing,Genuine leather jacket with a rugged look,3889,Clearance Sale,offer/sale/discount
+P1911,Watches 912,Watches,accessories,Classic analog watch with a leather strap,1459,No discount,fresh_arrivals
+P1912,Belts 913,Belts,accessories,Elegant leather belt for formal wear,3068,No discount,fresh_arrivals
+P1913,Sunglasses 914,Sunglasses,accessories,Polarized sunglasses for clear vision,4891,Flat 50% Off,offer/sale/discount
+P1914,Shirts 915,Shirts,clothing,Elegant silk design perfect for formal occasions,4658,20% Off,offer/sale/discount
+P1915,Boxers 916,Boxers,clothing,Soft cotton boxers for all-day comfort,1664,No discount,fresh_arrivals
+P1916,Sunglasses 917,Sunglasses,accessories,UV protection sunglasses for sunny days,1107,Buy 1 Get 1,offer/sale/discount
+P1917,Sandals 918,Sandals,footwear,Comfortable synthetic sandals for casual wear,4845,Flat 50% Off,offer/sale/discount
+P1918,Hoodies 919,Hoodies,clothing,Cozy fleece interior for extra warmth,4727,No discount,fresh_arrivals
+P1919,T-Shirts 920,Tshirts,clothing,Durable polyester blend for active lifestyles,2805,No discount,fresh_arrivals
+P1920,Sandals 921,Sandals,footwear,Stylish leather sandals for summer,3824,Clearance Sale,offer/sale/discount
+P1921,Sunglasses 922,Sunglasses,accessories,Polarized sunglasses for clear vision,4968,No discount,fresh_arrivals
+P1922,Formal Shoes 923,Formal Shoes,footwear,Durable synthetic material with a sleek finish,4614,No discount,fresh_arrivals
+P1923,Watches 924,Watches,accessories,Modern digital watch with various features,4343,No discount,fresh_arrivals
+P1924,Casual Shoes 925,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,2438,No discount,fresh_arrivals
+P1925,Shorts 926,Shorts,clothing,Lightweight cotton shorts for hot days,4595,No discount,Limited Edition
+P1926,Boxers 927,Boxers,clothing,Blended material boxers with a snug fit,3067,No discount,fresh_arrivals
+P1927,T-Shirts 928,Tshirts,clothing,Casual and comfortable blended material,3829,No discount,fresh_arrivals
+P1928,Formal Shoes 929,Formal Shoes,footwear,Durable synthetic material with a sleek finish,1154,No discount,fresh_arrivals
+P1929,Jackets 930,Jackets,clothing,Trendy denim jacket for casual outings,2124,Clearance Sale,offer/sale/discount
+P1930,Shirts 931,Shirts,clothing,Made with premium linen for a luxurious feel,1564,No discount,fresh_arrivals
+P1931,Boxers 932,Boxers,clothing,Blended material boxers with a snug fit,2831,No discount,fresh_arrivals
+P1932,Sunglasses 933,Sunglasses,accessories,Polarized sunglasses for clear vision,3219,No discount,fresh_arrivals
+P1933,Casual Shoes 934,Casual Shoes,footwear,Comfortable leather loafers for everyday use,4046,No discount,fresh_arrivals
+P1934,Formal Shoes 935,Formal Shoes,footwear,Polished leather shoes for formal events,4779,20% Off,offer/sale/discount
+P1935,Jeans 936,Jeans,clothing,Stretch denim for added comfort and flexibility,4968,Clearance Sale,offer/sale/discount
+P1936,Formal Shoes 937,Formal Shoes,footwear,Polished leather shoes for formal events,4881,Clearance Sale,offer/sale/discount
+P1937,Formal Shoes 938,Formal Shoes,footwear,Polished leather shoes for formal events,4805,No discount,fresh_arrivals
+P1938,Shirts 939,Shirts,clothing,Made with premium linen for a luxurious feel,703,No discount,fresh_arrivals
+P1939,Boxers 940,Boxers,clothing,Blended material boxers with a snug fit,944,No discount,fresh_arrivals
+P1940,Boxers 941,Boxers,clothing,Blended material boxers with a snug fit,4908,Clearance Sale,offer/sale/discount
+P1941,Sunglasses 942,Sunglasses,accessories,Polarized sunglasses for clear vision,3300,No discount,fresh_arrivals
+P1942,Ethnic Wear 943,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,3548,No discount,fresh_arrivals
+P1943,Hoodies 944,Hoodies,clothing,Cozy fleece interior for extra warmth,3949,No discount,fresh_arrivals
+P1944,Sandals 945,Sandals,footwear,Stylish leather sandals for summer,4415,No discount,fresh_arrivals
+P1945,Casual Shoes 946,Casual Shoes,footwear,Comfortable leather loafers for everyday use,4262,Buy 1 Get 1,offer/sale/discount
+P1946,Watches 947,Watches,accessories,Classic analog watch with a leather strap,4291,No discount,fresh_arrivals
+P1947,Boxers 948,Boxers,clothing,Blended material boxers with a snug fit,2472,Flat 50% Off,offer/sale/discount
+P1948,Formal Shoes 949,Formal Shoes,footwear,Polished leather shoes for formal events,1586,20% Off,offer/sale/discount
+P1949,Jeans 950,Jeans,clothing,Stretch denim for added comfort and flexibility,1064,Buy 1 Get 1,offer/sale/discount
+P1950,Formal Shoes 951,Formal Shoes,footwear,Polished leather shoes for formal events,682,No discount,fresh_arrivals
+P1951,Belts 952,Belts,accessories,Elegant leather belt for formal wear,1233,No discount,fresh_arrivals
+P1952,Ethnic Wear 953,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,2702,No discount,fresh_arrivals
+P1953,Ethnic Wear 954,Ethnic Wear,clothing,Elegant cotton kurta with intricate designs,4665,Buy 1 Get 1,offer/sale/discount
+P1954,Casual Shoes 955,Casual Shoes,footwear,Comfortable leather loafers for everyday use,3116,Clearance Sale,offer/sale/discount
+P1955,Formal Shoes 956,Formal Shoes,footwear,Polished leather shoes for formal events,1299,No discount,Limited Edition
+P1956,Ethnic Wear 957,Ethnic Wear,clothing,Traditional silk kurta for festive occasions,914,Buy 1 Get 1,offer/sale/discount
+P1957,Jackets 958,Jackets,clothing,Genuine leather jacket with a rugged look,2872,Flat 50% Off,offer/sale/discount
+P1958,Sandals 959,Sandals,footwear,Comfortable synthetic sandals for casual wear,4216,Clearance Sale,offer/sale/discount
+P1959,Boxers 960,Boxers,clothing,Soft cotton boxers for all-day comfort,2264,Clearance Sale,offer/sale/discount
+P1960,Jackets 961,Jackets,clothing,Water-resistant synthetic material for all weather,3748,No discount,fresh_arrivals
+P1961,Shirts 962,Shirts,clothing,Elegant silk design perfect for formal occasions,952,No discount,fresh_arrivals
+P1962,Sandals 963,Sandals,footwear,Stylish leather sandals for summer,3731,No discount,fresh_arrivals
+P1963,Shirts 964,Shirts,clothing,Elegant silk design perfect for formal occasions,3295,No discount,fresh_arrivals
+P1964,Boxers 965,Boxers,clothing,Blended material boxers with a snug fit,1334,No discount,fresh_arrivals
+P1965,Belts 966,Belts,accessories,Elegant leather belt for formal wear,1268,No discount,fresh_arrivals
+P1966,Sandals 967,Sandals,footwear,Stylish leather sandals for summer,880,No discount,fresh_arrivals
+P1967,Sweaters 968,Sweaters,clothing,Soft cashmere sweater for a touch of luxury,3057,Buy 1 Get 1,offer/sale/discount
+P1968,Sweaters 969,Sweaters,clothing,Warm wool knit for chilly days,2194,No discount,Limited Edition
+P1969,Formal Shoes 970,Formal Shoes,footwear,Polished leather shoes for formal events,1762,Clearance Sale,offer/sale/discount
+P1970,Jackets 971,Jackets,clothing,Water-resistant synthetic material for all weather,3004,No discount,fresh_arrivals
+P1971,Casual Shoes 972,Casual Shoes,footwear,Canvas sneakers perfect for casual outings,2002,No discount,Limited Edition
+P1972,Casual Shoes 973,Casual Shoes,footwear,Comfortable leather loafers for everyday use,3555,Clearance Sale,offer/sale/discount
+P1973,Boxers 974,Boxers,clothing,Blended material boxers with a snug fit,1209,No discount,fresh_arrivals
+P1974,Jeans 975,Jeans,clothing,Classic denim with a modern twist,2262,20% Off,offer/sale/discount
+P1975,Sandals 976,Sandals,footwear,Comfortable synthetic sandals for casual wear,1228,No discount,fresh_arrivals
+P1976,Jeans 977,Jeans,clothing,Classic denim with a modern twist,2882,No discount,Limited Edition
+P1977,Belts 978,Belts,accessories,Elegant leather belt for formal wear,1761,20% Off,offer/sale/discount
+P1978,T-Shirts 979,Tshirts,clothing,Casual and comfortable blended material,4680,No discount,fresh_arrivals
+P1979,Formal Shoes 980,Formal Shoes,footwear,Durable synthetic material with a sleek finish,603,Clearance Sale,offer/sale/discount
+P1980,Sandals 981,Sandals,footwear,Comfortable synthetic sandals for casual wear,2600,Clearance Sale,offer/sale/discount
+P1981,Shirts 982,Shirts,clothing,Elegant silk design perfect for formal occasions,4851,20% Off,offer/sale/discount
+P1982,Boxers 983,Boxers,clothing,Soft cotton boxers for all-day comfort,3910,No discount,fresh_arrivals
+P1983,Sweaters 984,Sweaters,clothing,Warm wool knit for chilly days,1814,No discount,fresh_arrivals
+P1984,Belts 985,Belts,accessories,Versatile synthetic belt for casual outfits,3058,No discount,fresh_arrivals
+P1985,Watches 986,Watches,accessories,Modern digital watch with various features,2849,No discount,Limited Edition
+P1986,Sunglasses 987,Sunglasses,accessories,Polarized sunglasses for clear vision,641,Flat 50% Off,offer/sale/discount
+P1987,Sweaters 988,Sweaters,clothing,Warm wool knit for chilly days,2245,Clearance Sale,offer/sale/discount
+P1988,Boxers 989,Boxers,clothing,Soft cotton boxers for all-day comfort,908,Clearance Sale,offer/sale/discount
+P1989,T-Shirts 990,Tshirts,clothing,Durable polyester blend for active lifestyles,1120,Flat 50% Off,offer/sale/discount
+P1990,Boxers 991,Boxers,clothing,Blended material boxers with a snug fit,2040,20% Off,offer/sale/discount
+P1991,Sandals 992,Sandals,footwear,Stylish leather sandals for summer,4562,Flat 50% Off,offer/sale/discount
+P1992,Belts 993,Belts,accessories,Elegant leather belt for formal wear,1119,No discount,fresh_arrivals
+P1993,Belts 994,Belts,accessories,Elegant leather belt for formal wear,1359,No discount,fresh_arrivals
+P1994,T-Shirts 995,Tshirts,clothing,Casual and comfortable blended material,642,No discount,fresh_arrivals
+P1995,Sweaters 996,Sweaters,clothing,Warm wool knit for chilly days,1506,No discount,fresh_arrivals
+P1996,Sandals 997,Sandals,footwear,Comfortable synthetic sandals for casual wear,2048,No discount,fresh_arrivals
+P1997,Jackets 998,Jackets,clothing,Water-resistant synthetic material for all weather,4310,Clearance Sale,offer/sale/discount
+P1998,Jeans 999,Jeans,clothing,Stretch denim for added comfort and flexibility,4108,20% Off,offer/sale/discount
+P1999,Hoodies 1000,Hoodies,clothing,Cozy fleece interior for extra warmth,3610,Clearance Sale,offer/sale/discount
